@@ -10,7 +10,7 @@
     },
     {
         "Country": "G7",
-        "summary_1": "<span>2035.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -82,7 +82,7 @@
     },
     {
         "Country": "Austria",
-        "summary_1": "<span>2020.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2020</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -154,7 +154,7 @@
     },
     {
         "Country": "Bulgaria",
-        "summary_1": "<span>2038.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2038</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -172,7 +172,7 @@
     },
     {
         "Country": "Canada",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -181,7 +181,7 @@
     },
     {
         "Country": "Chile",
-        "summary_1": "<span>2040.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2040</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -199,7 +199,7 @@
     },
     {
         "Country": "Colombia",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -208,7 +208,7 @@
     },
     {
         "Country": "C\u00f4te d'Ivoire",
-        "summary_1": "<span>2021.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2021</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -217,7 +217,7 @@
     },
     {
         "Country": "Croatia",
-        "summary_1": "<span>2033.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2033</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -226,7 +226,7 @@
     },
     {
         "Country": "Czech Republic",
-        "summary_1": "<span>2033.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2033</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -235,7 +235,7 @@
     },
     {
         "Country": "Denmark",
-        "summary_1": "<span>2028.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2028</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -271,7 +271,7 @@
     },
     {
         "Country": "Egypt",
-        "summary_1": "<span>2021.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2021</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -307,7 +307,7 @@
     },
     {
         "Country": "Finland",
-        "summary_1": "<span>2029.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2029</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -316,7 +316,7 @@
     },
     {
         "Country": "France",
-        "summary_1": "<span>2027.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2027</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -334,7 +334,7 @@
     },
     {
         "Country": "Germany",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -352,7 +352,7 @@
     },
     {
         "Country": "Greece",
-        "summary_1": "<span>2028.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2028</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -397,7 +397,7 @@
     },
     {
         "Country": "Hong Kong",
-        "summary_1": "<span>2035.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -406,7 +406,7 @@
     },
     {
         "Country": "Hungary",
-        "summary_1": "<span>2029.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2029</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -442,7 +442,7 @@
     },
     {
         "Country": "Ireland",
-        "summary_1": "<span>2025.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2025</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -451,7 +451,7 @@
     },
     {
         "Country": "Israel",
-        "summary_1": "<span>2025.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2025</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -460,7 +460,7 @@
     },
     {
         "Country": "Italy",
-        "summary_1": "<span>2027.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2027</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -505,7 +505,7 @@
     },
     {
         "Country": "Kosovo",
-        "summary_1": "<span>2050.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2050</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -568,7 +568,7 @@
     },
     {
         "Country": "Mauritius",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -604,7 +604,7 @@
     },
     {
         "Country": "Montenegro",
-        "summary_1": "<span>2035.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -631,7 +631,7 @@
     },
     {
         "Country": "Myanmar",
-        "summary_1": "<span>2050.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2050</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -649,7 +649,7 @@
     },
     {
         "Country": "Netherlands",
-        "summary_1": "<span>2029.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2029</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -667,7 +667,7 @@
     },
     {
         "Country": "New Zealand",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -703,7 +703,7 @@
     },
     {
         "Country": "North Macedonia",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -730,7 +730,7 @@
     },
     {
         "Country": "Panama",
-        "summary_1": "<span>2030.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2030</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -766,7 +766,7 @@
     },
     {
         "Country": "Poland",
-        "summary_1": "<span>2049.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2049</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -775,7 +775,7 @@
     },
     {
         "Country": "Portugal",
-        "summary_1": "<span>2021.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2021</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -784,7 +784,7 @@
     },
     {
         "Country": "Romania",
-        "summary_1": "<span>2032.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2032</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -811,7 +811,7 @@
     },
     {
         "Country": "Serbia",
-        "summary_1": "<span>2050.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2050</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -820,7 +820,7 @@
     },
     {
         "Country": "Slovakia",
-        "summary_1": "<span>2024.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2024</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -829,7 +829,7 @@
     },
     {
         "Country": "Slovenia",
-        "summary_1": "<span>2033.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2033</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -847,7 +847,7 @@
     },
     {
         "Country": "South Korea",
-        "summary_1": "<span>2050.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2050</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -856,7 +856,7 @@
     },
     {
         "Country": "Spain",
-        "summary_1": "<span>2025.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2025</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -865,7 +865,7 @@
     },
     {
         "Country": "Sri Lanka",
-        "summary_1": "<span>2042.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2042</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -946,7 +946,7 @@
     },
     {
         "Country": "Ukraine",
-        "summary_1": "<span>2035.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -964,7 +964,7 @@
     },
     {
         "Country": "United Kingdom",
-        "summary_1": "<span>2024.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2024</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
@@ -973,7 +973,7 @@
     },
     {
         "Country": "United States",
-        "summary_1": "<span>2035.0</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
