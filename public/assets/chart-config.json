@@ -1,0 +1,50 @@
+{
+    "19523579": {
+        "title": "How do coal plans compare to coal phaseout timelines?",
+        "subtitle": "Cumulative capacity through 2040 based on planned retirements (existing) and proposals (existing and proposed)",
+        "x_axis": "Year",
+        "values": [
+            "Historic", "Existing", "Existing and proposed"
+        ],
+        "dataset": "gcpt_h2_2024_capacity_over_time",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },    
+    "19526181": {
+        "title": "How much coal power capacity has retired and is planned to retire?",
+        "subtitle": "Coal power capacity retirements by year, 2000-2040",
+        "x_axis": "Year",
+        "values": [
+                "Capacity", "Status"
+        ],
+        "dataset": "gcpt_h2_2024_past_and_planned_retirement",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "19855908": {
+        "title": "What is the difference between average retirements and what is needed for a 1.5 pathway?",
+        "subtitle": "Average annual retirements, 2015-2023, and the annual average needed to phase out coal by 2030 (OECD) or 2040 (non-OECD)",
+        "x_axis": "Retirements",
+        "values": [
+            "Capacity"
+        ],
+        "dataset": "gcpt_h2_2024_gap_in_ambition",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    },
+    "19524995": {
+        "title": "How much cumulative coal capacity is planned to retire?",
+        "subtitle": "Coal capacity planned to retire by year and capacity remaining after 2050",
+        "x_axis": "Planned retire ages",
+        "values": [
+            "Capacity"
+        ],
+        "dataset": "gcpt_h2_2024_planned_retire_groupings",
+        "initial_state": "Global",
+        "filterable": true,
+        "filter_by": "Country"
+    }
+}
