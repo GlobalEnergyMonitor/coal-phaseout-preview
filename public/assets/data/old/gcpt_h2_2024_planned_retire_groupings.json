@@ -1,0 +1,2282 @@
+[
+    {
+        "Country": "Albania",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Albania",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Albania",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Albania",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Argentina",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.375"
+    },
+    {
+        "Country": "Argentina",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Argentina",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Argentina",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.12"
+    },
+    {
+        "Country": "Australia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "6.098"
+    },
+    {
+        "Country": "Australia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "12.035"
+    },
+    {
+        "Country": "Australia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.236"
+    },
+    {
+        "Country": "Australia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.494"
+    },
+    {
+        "Country": "Austria",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Austria",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Austria",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Austria",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "BRICS",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "20.607"
+    },
+    {
+        "Country": "BRICS",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "22.247"
+    },
+    {
+        "Country": "BRICS",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "6.495"
+    },
+    {
+        "Country": "BRICS",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1429.613"
+    },
+    {
+        "Country": "Bangladesh",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bangladesh",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bangladesh",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bangladesh",
+        "Planned retire ages": "Remaining",
+        "Capacity": "5.435"
+    },
+    {
+        "Country": "Belarus",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belarus",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belarus",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belarus",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.42"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.67"
+    },
+    {
+        "Country": "Botswana",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.132"
+    },
+    {
+        "Country": "Botswana",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Botswana",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Botswana",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.6"
+    },
+    {
+        "Country": "Brazil",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.9"
+    },
+    {
+        "Country": "Brazil",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "1.582"
+    },
+    {
+        "Country": "Brazil",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.345"
+    },
+    {
+        "Country": "Brazil",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.35"
+    },
+    {
+        "Country": "Brunei",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Brunei",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Brunei",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Brunei",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.22"
+    },
+    {
+        "Country": "Bulgaria",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bulgaria",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bulgaria",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bulgaria",
+        "Planned retire ages": "Remaining",
+        "Capacity": "5.109"
+    },
+    {
+        "Country": "Cambodia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Cambodia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Cambodia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Cambodia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.455"
+    },
+    {
+        "Country": "Canada",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "3.2708"
+    },
+    {
+        "Country": "Canada",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Canada",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.11"
+    },
+    {
+        "Country": "Canada",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Chile",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.166"
+    },
+    {
+        "Country": "Chile",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "1.66"
+    },
+    {
+        "Country": "Chile",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Chile",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "China",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "3.95"
+    },
+    {
+        "Country": "China",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "1.32"
+    },
+    {
+        "Country": "China",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "China",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1145.846"
+    },
+    {
+        "Country": "Colombia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.236"
+    },
+    {
+        "Country": "Colombia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.35"
+    },
+    {
+        "Country": "Colombia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Colombia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.06"
+    },
+    {
+        "Country": "Croatia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Croatia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Croatia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Croatia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.342"
+    },
+    {
+        "Country": "Czech Republic",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.327"
+    },
+    {
+        "Country": "Czech Republic",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Czech Republic",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Czech Republic",
+        "Planned retire ages": "Remaining",
+        "Capacity": "6.1316"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "DR Congo",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "DR Congo",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "DR Congo",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "DR Congo",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Denmark",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.198"
+    },
+    {
+        "Country": "Denmark",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Denmark",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Denmark",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Djibouti",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Djibouti",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Djibouti",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Djibouti",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.064"
+    },
+    {
+        "Country": "EU27",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "51.6429"
+    },
+    {
+        "Country": "EU27",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "16.065"
+    },
+    {
+        "Country": "EU27",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.068"
+    },
+    {
+        "Country": "EU27",
+        "Planned retire ages": "Remaining",
+        "Capacity": "31.3989"
+    },
+    {
+        "Country": "Egypt",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Egypt",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Egypt",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Egypt",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Finland",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.246"
+    },
+    {
+        "Country": "Finland",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Finland",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Finland",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0392"
+    },
+    {
+        "Country": "France",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.029"
+    },
+    {
+        "Country": "France",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "France",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "France",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "G20",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "177.0753"
+    },
+    {
+        "Country": "G20",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "100.9466"
+    },
+    {
+        "Country": "G20",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "30.0296"
+    },
+    {
+        "Country": "G20",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1673.517"
+    },
+    {
+        "Country": "G7",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "113.9719"
+    },
+    {
+        "Country": "G7",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "46.3306"
+    },
+    {
+        "Country": "G7",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.9876"
+    },
+    {
+        "Country": "G7",
+        "Planned retire ages": "Remaining",
+        "Capacity": "135.7235"
+    },
+    {
+        "Country": "Georgia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Georgia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Georgia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Georgia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Germany",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "18.6635"
+    },
+    {
+        "Country": "Germany",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "8.231"
+    },
+    {
+        "Country": "Germany",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Germany",
+        "Planned retire ages": "Remaining",
+        "Capacity": "7.603"
+    },
+    {
+        "Country": "Ghana",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ghana",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ghana",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ghana",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Global",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "201.6663"
+    },
+    {
+        "Country": "Global",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "113.8556"
+    },
+    {
+        "Country": "Global",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "33.3296"
+    },
+    {
+        "Country": "Global",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1809.372"
+    },
+    {
+        "Country": "Greece",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.885"
+    },
+    {
+        "Country": "Greece",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Greece",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Greece",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.064"
+    },
+    {
+        "Country": "Guatemala",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guatemala",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guatemala",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guatemala",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.439"
+    },
+    {
+        "Country": "Guinea",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guinea",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guinea",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guinea",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Honduras",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.105"
+    },
+    {
+        "Country": "Honduras",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Honduras",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Honduras",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hong Kong",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hong Kong",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hong Kong",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hong Kong",
+        "Planned retire ages": "Remaining",
+        "Capacity": "6.11"
+    },
+    {
+        "Country": "Hungary",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.004"
+    },
+    {
+        "Country": "Hungary",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hungary",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hungary",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.13"
+    },
+    {
+        "Country": "India",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.42"
+    },
+    {
+        "Country": "India",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "India",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "India",
+        "Planned retire ages": "Remaining",
+        "Capacity": "239.7442"
+    },
+    {
+        "Country": "Indonesia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.319"
+    },
+    {
+        "Country": "Indonesia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "1.71"
+    },
+    {
+        "Country": "Indonesia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.4"
+    },
+    {
+        "Country": "Indonesia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "49.8876"
+    },
+    {
+        "Country": "Iran",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Iran",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Iran",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Iran",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ireland",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.915"
+    },
+    {
+        "Country": "Ireland",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ireland",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ireland",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Israel",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "4.325"
+    },
+    {
+        "Country": "Israel",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Israel",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Israel",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Italy",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "6.166"
+    },
+    {
+        "Country": "Italy",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Italy",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Italy",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Jamaica",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Jamaica",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Jamaica",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Jamaica",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Japan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.5268"
+    },
+    {
+        "Country": "Japan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "2.2"
+    },
+    {
+        "Country": "Japan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Japan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "50.6332"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.273"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "12.333"
+    },
+    {
+        "Country": "Kenya",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kenya",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kenya",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kenya",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kosovo",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.21"
+    },
+    {
+        "Country": "Kosovo",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.2"
+    },
+    {
+        "Country": "Kosovo",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kosovo",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.88"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.513"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.3"
+    },
+    {
+        "Country": "Laos",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Laos",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Laos",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Laos",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.878"
+    },
+    {
+        "Country": "Latvia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Latvia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Latvia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Latvia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.12"
+    },
+    {
+        "Country": "Malawi",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malawi",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malawi",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malawi",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malaysia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "3.91"
+    },
+    {
+        "Country": "Malaysia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "3.5"
+    },
+    {
+        "Country": "Malaysia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.0"
+    },
+    {
+        "Country": "Malaysia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "2.87"
+    },
+    {
+        "Country": "Mauritius",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mauritius",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mauritius",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mauritius",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.195"
+    },
+    {
+        "Country": "Mexico",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.4"
+    },
+    {
+        "Country": "Mexico",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mexico",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mexico",
+        "Planned retire ages": "Remaining",
+        "Capacity": "3.978"
+    },
+    {
+        "Country": "Moldova",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Moldova",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Moldova",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Moldova",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.6"
+    },
+    {
+        "Country": "Mongolia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mongolia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mongolia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mongolia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.995"
+    },
+    {
+        "Country": "Montenegro",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Montenegro",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.225"
+    },
+    {
+        "Country": "Montenegro",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Montenegro",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Morocco",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Morocco",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Morocco",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Morocco",
+        "Planned retire ages": "Remaining",
+        "Capacity": "4.092"
+    },
+    {
+        "Country": "Mozambique",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mozambique",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mozambique",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mozambique",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.19"
+    },
+    {
+        "Country": "Namibia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Namibia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.12"
+    },
+    {
+        "Country": "Namibia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Namibia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Netherlands",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "3.5"
+    },
+    {
+        "Country": "Netherlands",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Netherlands",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Netherlands",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "New Caledonia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.1"
+    },
+    {
+        "Country": "New Caledonia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "New Caledonia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "New Caledonia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.27"
+    },
+    {
+        "Country": "New Zealand",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "New Zealand",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.75"
+    },
+    {
+        "Country": "New Zealand",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "New Zealand",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Niger",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Niger",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Niger",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Niger",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.2845"
+    },
+    {
+        "Country": "North Korea",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Korea",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Korea",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Korea",
+        "Planned retire ages": "Remaining",
+        "Capacity": "3.7"
+    },
+    {
+        "Country": "North Macedonia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.824"
+    },
+    {
+        "Country": "North Macedonia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Macedonia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Macedonia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "OECD",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "157.5803"
+    },
+    {
+        "Country": "OECD",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "77.9396"
+    },
+    {
+        "Country": "OECD",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "23.1346"
+    },
+    {
+        "Country": "OECD",
+        "Planned retire ages": "Remaining",
+        "Capacity": "189.4546"
+    },
+    {
+        "Country": "Oman",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Oman",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Oman",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Oman",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "7.788"
+    },
+    {
+        "Country": "Panama",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.306"
+    },
+    {
+        "Country": "Panama",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Panama",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Panama",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Philippines",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.232"
+    },
+    {
+        "Country": "Philippines",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.27"
+    },
+    {
+        "Country": "Philippines",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Philippines",
+        "Planned retire ages": "Remaining",
+        "Capacity": "11.7304"
+    },
+    {
+        "Country": "Poland",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "8.2129"
+    },
+    {
+        "Country": "Poland",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "6.739"
+    },
+    {
+        "Country": "Poland",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.068"
+    },
+    {
+        "Country": "Poland",
+        "Planned retire ages": "Remaining",
+        "Capacity": "10.4371"
+    },
+    {
+        "Country": "Portugal",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Portugal",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Portugal",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Portugal",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Romania",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.755"
+    },
+    {
+        "Country": "Romania",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.15"
+    },
+    {
+        "Country": "Romania",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Romania",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Russia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "4.175"
+    },
+    {
+        "Country": "Russia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Russia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Russia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "33.6361"
+    },
+    {
+        "Country": "Senegal",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Senegal",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Senegal",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Senegal",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.155"
+    },
+    {
+        "Country": "Serbia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.121"
+    },
+    {
+        "Country": "Serbia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Serbia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Serbia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "3.346"
+    },
+    {
+        "Country": "Slovakia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.066"
+    },
+    {
+        "Country": "Slovakia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Slovakia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Slovakia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.208"
+    },
+    {
+        "Country": "Slovenia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.074"
+    },
+    {
+        "Country": "Slovenia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.945"
+    },
+    {
+        "Country": "Slovenia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Slovenia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "South Africa",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "11.162"
+    },
+    {
+        "Country": "South Africa",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "19.345"
+    },
+    {
+        "Country": "South Africa",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "6.15"
+    },
+    {
+        "Country": "South Africa",
+        "Planned retire ages": "Remaining",
+        "Capacity": "10.0371"
+    },
+    {
+        "Country": "South Korea",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "9.52"
+    },
+    {
+        "Country": "South Korea",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "10.34"
+    },
+    {
+        "Country": "South Korea",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "12.843"
+    },
+    {
+        "Country": "South Korea",
+        "Planned retire ages": "Remaining",
+        "Capacity": "8.481"
+    },
+    {
+        "Country": "Spain",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "1.6015"
+    },
+    {
+        "Country": "Spain",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Spain",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Spain",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.299"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.3"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.6"
+    },
+    {
+        "Country": "Sudan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sudan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sudan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sudan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.06"
+    },
+    {
+        "Country": "Taiwan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "6.563"
+    },
+    {
+        "Country": "Taiwan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "4.4"
+    },
+    {
+        "Country": "Taiwan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Taiwan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "8.193"
+    },
+    {
+        "Country": "Tajikistan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tajikistan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tajikistan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tajikistan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.4"
+    },
+    {
+        "Country": "Tanzania",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tanzania",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tanzania",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tanzania",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Thailand",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.155"
+    },
+    {
+        "Country": "Thailand",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "1.434"
+    },
+    {
+        "Country": "Thailand",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Thailand",
+        "Planned retire ages": "Remaining",
+        "Capacity": "2.549"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.45"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Planned retire ages": "Remaining",
+        "Capacity": "20.4232"
+    },
+    {
+        "Country": "Ukraine",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ukraine",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ukraine",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ukraine",
+        "Planned retire ages": "Remaining",
+        "Capacity": "21.477"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Kingdom",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "2.172"
+    },
+    {
+        "Country": "United Kingdom",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Kingdom",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Kingdom",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United States",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "79.1438"
+    },
+    {
+        "Country": "United States",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "35.8996"
+    },
+    {
+        "Country": "United States",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "3.8776"
+    },
+    {
+        "Country": "United States",
+        "Planned retire ages": "Remaining",
+        "Capacity": "77.4873"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Planned retire ages": "Remaining",
+        "Capacity": "2.493"
+    },
+    {
+        "Country": "Venezuela",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Venezuela",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Venezuela",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Venezuela",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Planned retire ages": "Remaining",
+        "Capacity": "27.239"
+    },
+    {
+        "Country": "Zambia",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zambia",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zambia",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zambia",
+        "Planned retire ages": "Remaining",
+        "Capacity": "0.33"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Planned retire ages": "Retiring by 2030",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Planned retire ages": "Retiring by 2040",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Planned retire ages": "Retiring by 2050",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Planned retire ages": "Remaining",
+        "Capacity": "1.67"
+    }
+]
