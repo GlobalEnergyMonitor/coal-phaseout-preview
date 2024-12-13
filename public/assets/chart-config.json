@@ -24,8 +24,8 @@
         "filter_by": "Country"
     },
     "19855908": {
-        "title": "What is the difference between average retirements and what is needed for a 1.5 pathway?",
-        "subtitle": "Average annual retirements, 2015-2023, and the annual average needed to phase out coal by 2030 (OECD) or 2040 (non-OECD)",
+        "title": "What is the difference between retirements planned and what is needed for a 1.5 pathway?",
+        "subtitle": "Average annual retirements planned and the annual average needed to phase out coal by 2030 (OECD) or 2040 (non-OECD)",
         "x_axis": "Retirements",
         "values": [
             "Capacity"
