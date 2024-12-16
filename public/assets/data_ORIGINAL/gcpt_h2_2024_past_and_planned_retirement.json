@@ -411,61 +411,61 @@
         "Country": "Australia",
         "Year": "2002",
         "Capacity": "0.396",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2010",
         "Capacity": "0.49",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2011",
         "Capacity": "0.125",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2012",
         "Capacity": "0.905",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2014",
         "Capacity": "1.301",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2015",
-        "Capacity": "0.5900000000000001",
-        "Status": "nan"
+        "Capacity": "0.59",
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2016",
         "Capacity": "0.76",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2017",
         "Capacity": "1.84",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2022",
         "Capacity": "0.7",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
         "Year": "2023",
         "Capacity": "1.534",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Australia",
@@ -531,55 +531,55 @@
         "Country": "Austria",
         "Year": "2001",
         "Capacity": "0.137",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2006",
         "Capacity": "0.33",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2008",
         "Capacity": "0.066",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2010",
         "Capacity": "0.055",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2011",
         "Capacity": "0.192",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2015",
         "Capacity": "0.45",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2016",
         "Capacity": "0.165",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2019",
         "Capacity": "0.352",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
         "Year": "2020",
         "Capacity": "0.246",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Austria",
@@ -687,151 +687,151 @@
         "Country": "BRICS",
         "Year": "2000",
         "Capacity": "0.6326",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2001",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2002",
         "Capacity": "1.4",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2003",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2004",
         "Capacity": "0.278",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2005",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2006",
         "Capacity": "0.662",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2007",
         "Capacity": "10.288",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2008",
         "Capacity": "9.835",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2009",
         "Capacity": "10.816",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2010",
         "Capacity": "10.927",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2011",
         "Capacity": "4.793",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2012",
         "Capacity": "4.1685",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2013",
         "Capacity": "4.6595",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2014",
         "Capacity": "9.1197",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2015",
-        "Capacity": "6.893800000000001",
-        "Status": "nan"
+        "Capacity": "6.8938",
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2016",
         "Capacity": "8.023",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2017",
         "Capacity": "12.621",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2018",
         "Capacity": "13.178",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2019",
         "Capacity": "9.351",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2020",
         "Capacity": "14.752",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2021",
         "Capacity": "4.44",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2022",
         "Capacity": "5.479",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2023",
         "Capacity": "5.105",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
         "Year": "2024",
         "Capacity": "1.305",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "BRICS",
@@ -1443,49 +1443,49 @@
         "Country": "Belgium",
         "Year": "2000",
         "Capacity": "0.272",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2001",
         "Capacity": "0.133",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2006",
         "Capacity": "0.341",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2009",
         "Capacity": "0.252",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2010",
         "Capacity": "0.457",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2012",
         "Capacity": "0.26",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2013",
         "Capacity": "0.59",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
         "Year": "2016",
         "Capacity": "0.56",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Belgium",
@@ -1911,13 +1911,13 @@
         "Country": "Brazil",
         "Year": "2016",
         "Capacity": "0.072",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Brazil",
         "Year": "2017",
         "Capacity": "0.446",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Brazil",
@@ -2199,25 +2199,25 @@
         "Country": "Bulgaria",
         "Year": "2004",
         "Capacity": "0.12",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Bulgaria",
         "Year": "2013",
         "Capacity": "0.21",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Bulgaria",
         "Year": "2014",
         "Capacity": "0.21",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Bulgaria",
         "Year": "2015",
         "Capacity": "0.84",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Bulgaria",
@@ -2577,85 +2577,85 @@
         "Country": "Canada",
         "Year": "2000",
         "Capacity": "0.06",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2005",
         "Capacity": "2.658",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2010",
         "Capacity": "2.319",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2011",
         "Capacity": "0.98",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2012",
         "Capacity": "0.23",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2013",
         "Capacity": "3.086",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2014",
         "Capacity": "0.382",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2018",
         "Capacity": "0.665",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2019",
         "Capacity": "0.149",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2020",
         "Capacity": "0.38",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2021",
         "Capacity": "3.4764",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2022",
         "Capacity": "0.433",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2023",
         "Capacity": "0.616",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
         "Year": "2024",
         "Capacity": "0.88",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Canada",
@@ -2685,31 +2685,31 @@
         "Country": "Chile",
         "Year": "2019",
         "Capacity": "0.327",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Chile",
         "Year": "2020",
         "Capacity": "0.248",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Chile",
         "Year": "2022",
         "Capacity": "0.618",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Chile",
         "Year": "2023",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Chile",
         "Year": "2024",
         "Capacity": "0.277",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Chile",
@@ -2733,145 +2733,145 @@
         "Country": "China",
         "Year": "2000",
         "Capacity": "0.386",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2001",
         "Capacity": "0.1",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2002",
         "Capacity": "0.35",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2004",
         "Capacity": "0.228",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2005",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2006",
         "Capacity": "0.662",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2007",
         "Capacity": "10.228",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2008",
         "Capacity": "9.715",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2009",
         "Capacity": "10.525",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2010",
-        "Capacity": "9.902000000000001",
-        "Status": "nan"
+        "Capacity": "9.902",
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2011",
         "Capacity": "4.154",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2012",
         "Capacity": "3.926",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2013",
         "Capacity": "3.243",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2014",
         "Capacity": "8.7772",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2015",
-        "Capacity": "6.228800000000001",
-        "Status": "nan"
+        "Capacity": "6.2288",
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2016",
         "Capacity": "5.405",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2017",
         "Capacity": "7.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2018",
         "Capacity": "10.709",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2019",
         "Capacity": "7.872",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2020",
         "Capacity": "12.318",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2021",
         "Capacity": "1.663",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2022",
         "Capacity": "2.938",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2023",
         "Capacity": "4.011",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
         "Year": "2024",
         "Capacity": "1.085",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "China",
@@ -3327,48 +3327,48 @@
         "Country": "Czech Republic",
         "Year": "2008",
         "Capacity": "0.03",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2012",
         "Capacity": "0.63",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2016",
         "Capacity": "0.42",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2019",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2020",
         "Capacity": "1.17",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2021",
         "Capacity": "0.5465",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2023",
         "Capacity": "0.041",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Czech Republic",
         "Year": "2026",
-        "Capacity": "0.7100000000000001",
+        "Capacity": "0.71",
         "Status": "Planned retire"
     },
     {
@@ -3903,66 +3903,66 @@
         "Country": "Denmark",
         "Year": "2002",
         "Capacity": "0.262",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2004",
         "Capacity": "0.07",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2009",
         "Capacity": "0.195",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2010",
         "Capacity": "0.326",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2012",
         "Capacity": "0.266",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2014",
         "Capacity": "0.305",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2016",
         "Capacity": "0.751",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2019",
         "Capacity": "1.057",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2020",
         "Capacity": "0.263",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2024",
         "Capacity": "0.362",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Denmark",
         "Year": "2024",
-        "Capacity": "0.7869999999999999",
+        "Capacity": "0.787",
         "Status": "Planned retire"
     },
     {
@@ -4479,151 +4479,151 @@
         "Country": "EU27",
         "Year": "2000",
         "Capacity": "1.802",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2001",
         "Capacity": "0.923",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2002",
         "Capacity": "0.784",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2003",
         "Capacity": "0.656",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2004",
         "Capacity": "0.63",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2005",
         "Capacity": "1.24",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2006",
         "Capacity": "1.409",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2007",
         "Capacity": "1.053",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2008",
         "Capacity": "1.326",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2009",
-        "Capacity": "0.7869999999999999",
-        "Status": "nan"
+        "Capacity": "0.787",
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2010",
         "Capacity": "1.483",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2011",
         "Capacity": "1.878",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2012",
         "Capacity": "6.019",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2013",
         "Capacity": "5.0896",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2014",
         "Capacity": "5.1049",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2015",
         "Capacity": "7.834",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2016",
         "Capacity": "4.9766",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2017",
         "Capacity": "5.778",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2018",
         "Capacity": "1.817",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2019",
         "Capacity": "6.2545",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2020",
         "Capacity": "10.9833",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2021",
         "Capacity": "14.6966",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2022",
         "Capacity": "2.1849",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2023",
         "Capacity": "2.653",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
         "Year": "2024",
         "Capacity": "5.9996",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "EU27",
@@ -4658,7 +4658,7 @@
     {
         "Country": "EU27",
         "Year": "2029",
-        "Capacity": "7.217000000000001",
+        "Capacity": "7.217",
         "Status": "Planned retire"
     },
     {
@@ -5727,55 +5727,55 @@
         "Country": "Finland",
         "Year": "2003",
         "Capacity": "0.035",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2006",
         "Capacity": "0.078",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2013",
         "Capacity": "0.08",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2014",
         "Capacity": "1.0",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2017",
         "Capacity": "0.467",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2019",
         "Capacity": "0.138",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2020",
         "Capacity": "0.331",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2023",
         "Capacity": "0.228",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
         "Year": "2024",
         "Capacity": "0.08",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Finland",
@@ -5805,55 +5805,55 @@
         "Country": "France",
         "Year": "2000",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2005",
         "Capacity": "0.73",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2006",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2013",
         "Capacity": "1.585",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2014",
         "Capacity": "0.516",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2015",
         "Capacity": "2.058",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2021",
         "Capacity": "0.63",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2022",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
         "Year": "2023",
         "Capacity": "0.108",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "France",
@@ -5871,151 +5871,151 @@
         "Country": "G20",
         "Year": "2000",
         "Capacity": "3.8352",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2001",
         "Capacity": "1.603",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2002",
         "Capacity": "4.1983",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2003",
         "Capacity": "4.3061",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2004",
         "Capacity": "1.95",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2005",
         "Capacity": "4.317",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2006",
         "Capacity": "2.342",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2007",
         "Capacity": "14.6264",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2008",
         "Capacity": "11.8204",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2009",
         "Capacity": "12.8251",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2010",
         "Capacity": "17.7016",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2011",
         "Capacity": "13.2569",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2012",
         "Capacity": "23.8572",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2013",
         "Capacity": "23.8126",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2014",
         "Capacity": "22.4079",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2015",
         "Capacity": "38.4497",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2016",
         "Capacity": "34.0837",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2017",
         "Capacity": "29.9698",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2018",
         "Capacity": "35.5786",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2019",
         "Capacity": "35.1613",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2020",
         "Capacity": "42.5878",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2021",
         "Capacity": "32.9948",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2022",
         "Capacity": "25.211",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2023",
         "Capacity": "22.7787",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
         "Year": "2024",
         "Capacity": "11.5549",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G20",
@@ -6123,151 +6123,151 @@
         "Country": "G7",
         "Year": "2000",
         "Capacity": "2.8806",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2001",
         "Capacity": "1.183",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2002",
         "Capacity": "2.1403",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2003",
         "Capacity": "3.9211",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2004",
         "Capacity": "1.307",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2005",
-        "Capacity": "4.266999999999999",
-        "Status": "nan"
+        "Capacity": "4.267",
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2006",
         "Capacity": "0.521",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2007",
         "Capacity": "3.4854",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2008",
         "Capacity": "1.2994",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2009",
         "Capacity": "1.2221",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2010",
         "Capacity": "4.8766",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2011",
         "Capacity": "7.2069",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2012",
         "Capacity": "15.7277",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2013",
         "Capacity": "16.9621",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2014",
         "Capacity": "9.8672",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2015",
         "Capacity": "26.4049",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2016",
         "Capacity": "21.9841",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2017",
         "Capacity": "12.7108",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2018",
         "Capacity": "21.6356",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2019",
         "Capacity": "20.8003",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2020",
         "Capacity": "17.1875",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2021",
         "Capacity": "19.7633",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2022",
         "Capacity": "17.9988",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2023",
         "Capacity": "14.2707",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
         "Year": "2024",
         "Capacity": "9.5353",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "G7",
@@ -6314,7 +6314,7 @@
     {
         "Country": "G7",
         "Year": "2031",
-        "Capacity": "7.098100000000001",
+        "Capacity": "7.0981",
         "Status": "Planned retire"
     },
     {
@@ -6621,127 +6621,127 @@
         "Country": "Germany",
         "Year": "2000",
         "Capacity": "1.23",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2001",
         "Capacity": "0.585",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2002",
         "Capacity": "0.522",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2003",
         "Capacity": "0.421",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2004",
         "Capacity": "0.09",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2005",
         "Capacity": "0.51",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2007",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2011",
         "Capacity": "0.746",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2012",
         "Capacity": "2.963",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2013",
         "Capacity": "1.3136",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2014",
         "Capacity": "2.3289",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2015",
         "Capacity": "1.075",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2016",
-        "Capacity": "0.6799999999999999",
-        "Status": "nan"
+        "Capacity": "0.68",
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2017",
         "Capacity": "3.35",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2018",
         "Capacity": "1.052",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2019",
         "Capacity": "1.2445",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2020",
-        "Capacity": "0.7250000000000001",
-        "Status": "nan"
+        "Capacity": "0.725",
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2021",
         "Capacity": "6.0191",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2022",
         "Capacity": "0.5517",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2023",
         "Capacity": "0.036",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
         "Year": "2024",
         "Capacity": "5.285",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Germany",
@@ -6752,7 +6752,7 @@
     {
         "Country": "Germany",
         "Year": "2025",
-        "Capacity": "0.6220000000000001",
+        "Capacity": "0.622",
         "Status": "Planned retire"
     },
     {
@@ -7065,151 +7065,151 @@
         "Country": "Global",
         "Year": "2000",
         "Capacity": "4.0602",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2001",
         "Capacity": "1.603",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2002",
         "Capacity": "4.1983",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2003",
         "Capacity": "4.3061",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2004",
         "Capacity": "1.95",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2005",
         "Capacity": "4.317",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2006",
         "Capacity": "2.407",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2007",
         "Capacity": "15.0264",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2008",
         "Capacity": "11.8204",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2009",
         "Capacity": "12.8251",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2010",
         "Capacity": "17.8266",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2011",
         "Capacity": "13.2569",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2012",
         "Capacity": "24.7072",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2013",
         "Capacity": "23.8126",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2014",
         "Capacity": "23.0079",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2015",
         "Capacity": "38.5547",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2016",
         "Capacity": "34.3767",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2017",
         "Capacity": "31.1535",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2018",
         "Capacity": "37.6196",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2019",
         "Capacity": "35.9383",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2020",
         "Capacity": "43.0738",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2021",
         "Capacity": "33.2338",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2022",
         "Capacity": "28.011",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2023",
         "Capacity": "22.9987",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
         "Year": "2024",
         "Capacity": "11.9969",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Global",
@@ -7317,49 +7317,49 @@
         "Country": "Greece",
         "Year": "2010",
         "Capacity": "0.07",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2011",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2013",
         "Capacity": "0.033",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2016",
         "Capacity": "0.55",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2019",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2020",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2021",
         "Capacity": "0.65",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
         "Year": "2022",
         "Capacity": "0.3",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Greece",
@@ -7377,7 +7377,7 @@
         "Country": "Guadeloupe",
         "Year": "2020",
         "Capacity": "0.038",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Guadeloupe",
@@ -7485,7 +7485,7 @@
         "Country": "Guatemala",
         "Year": "2021",
         "Capacity": "0.083",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Guatemala",
@@ -8001,13 +8001,13 @@
         "Country": "Hong Kong",
         "Year": "2017",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Hong Kong",
         "Year": "2018",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Hong Kong",
@@ -8115,19 +8115,19 @@
         "Country": "Hungary",
         "Year": "2004",
         "Capacity": "0.1",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Hungary",
         "Year": "2011",
         "Capacity": "0.305",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Hungary",
         "Year": "2012",
         "Capacity": "0.11",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Hungary",
@@ -8144,134 +8144,134 @@
     {
         "Country": "India",
         "Year": "2000",
-        "Capacity": "0.09659999999999999",
-        "Status": "nan"
+        "Capacity": "0.0966",
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2001",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2002",
         "Capacity": "1.0",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2003",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2007",
         "Capacity": "0.06",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2008",
         "Capacity": "0.12",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2009",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2010",
         "Capacity": "1.025",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2011",
         "Capacity": "0.539",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2012",
         "Capacity": "0.0625",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2013",
         "Capacity": "0.1875",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2014",
         "Capacity": "0.3425",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2015",
         "Capacity": "0.12",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2016",
         "Capacity": "1.36",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2017",
         "Capacity": "3.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2018",
         "Capacity": "2.009",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2019",
         "Capacity": "0.795",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2020",
         "Capacity": "1.79",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2021",
         "Capacity": "1.48",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2022",
         "Capacity": "0.784",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2023",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
         "Year": "2024",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "India",
@@ -8871,7 +8871,7 @@
         "Country": "Israel",
         "Year": "2022",
         "Capacity": "0.575",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Israel",
@@ -8889,67 +8889,67 @@
         "Country": "Italy",
         "Year": "2001",
         "Capacity": "0.068",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2004",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2008",
         "Capacity": "0.64",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2010",
         "Capacity": "0.075",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2014",
         "Capacity": "0.14",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2015",
         "Capacity": "0.14",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2016",
         "Capacity": "0.98",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2017",
         "Capacity": "0.155",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2020",
         "Capacity": "0.81",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2021",
-        "Capacity": "0.9359999999999999",
-        "Status": "nan"
+        "Capacity": "0.936",
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
         "Year": "2023",
         "Capacity": "0.64",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Italy",
@@ -9225,73 +9225,73 @@
         "Country": "Japan",
         "Year": "2001",
         "Capacity": "0.53",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2004",
         "Capacity": "0.397",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2005",
         "Capacity": "0.085",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2007",
         "Capacity": "0.405",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2010",
         "Capacity": "0.0309",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2017",
         "Capacity": "0.095",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2018",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2019",
-        "Capacity": "0.4399999999999999",
-        "Status": "nan"
+        "Capacity": "0.44",
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2020",
         "Capacity": "0.285",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2022",
         "Capacity": "0.156",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2023",
         "Capacity": "0.156",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
         "Year": "2024",
         "Capacity": "0.372",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Japan",
@@ -9327,13 +9327,13 @@
         "Country": "Kazakhstan",
         "Year": "2017",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Kazakhstan",
         "Year": "2018",
         "Capacity": "0.06",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Kazakhstan",
@@ -9615,13 +9615,13 @@
         "Country": "Kosovo",
         "Year": "2006",
         "Capacity": "0.065",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Kosovo",
         "Year": "2010",
         "Capacity": "0.125",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Kosovo",
@@ -9639,7 +9639,7 @@
         "Country": "Kyrgyzstan",
         "Year": "2017",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Kyrgyzstan",
@@ -11907,7 +11907,7 @@
         "Country": "Morocco",
         "Year": "2024",
         "Capacity": "0.165",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Morocco",
@@ -12675,25 +12675,25 @@
         "Country": "Netherlands",
         "Year": "2015",
         "Capacity": "1.774",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Netherlands",
         "Year": "2017",
         "Capacity": "1.206",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Netherlands",
         "Year": "2019",
         "Capacity": "0.685",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Netherlands",
         "Year": "2023",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Netherlands",
@@ -12861,7 +12861,7 @@
         "Country": "New Zealand",
         "Year": "2012",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "New Zealand",
@@ -13797,151 +13797,151 @@
         "Country": "OECD",
         "Year": "2000",
         "Capacity": "3.2026",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2001",
         "Capacity": "1.453",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2002",
         "Capacity": "2.7983",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2003",
         "Capacity": "4.1561",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2004",
         "Capacity": "1.552",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2005",
-        "Capacity": "4.266999999999999",
-        "Status": "nan"
+        "Capacity": "4.267",
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2006",
         "Capacity": "1.35",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2007",
         "Capacity": "4.3384",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2008",
         "Capacity": "1.7854",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2009",
         "Capacity": "2.0091",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2010",
         "Capacity": "6.7246",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2011",
         "Capacity": "8.4639",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2012",
         "Capacity": "19.7287",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2013",
         "Capacity": "18.7931",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2014",
         "Capacity": "13.0782",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2015",
         "Capacity": "29.9859",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2016",
         "Capacity": "25.9607",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2017",
         "Capacity": "17.3488",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2018",
         "Capacity": "22.4006",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2019",
         "Capacity": "24.8503",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2020",
         "Capacity": "27.8358",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2021",
         "Capacity": "26.8348",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2022",
         "Capacity": "20.307",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2023",
         "Capacity": "17.3437",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
         "Year": "2024",
         "Capacity": "10.2499",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "OECD",
@@ -14553,7 +14553,7 @@
         "Country": "Panama",
         "Year": "2021",
         "Capacity": "0.12",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Panama",
@@ -14823,7 +14823,7 @@
         "Country": "Peru",
         "Year": "2022",
         "Capacity": "0.135",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Peru",
@@ -14931,13 +14931,13 @@
         "Country": "Philippines",
         "Year": "2015",
         "Capacity": "0.105",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Philippines",
         "Year": "2016",
         "Capacity": "0.052",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Philippines",
@@ -14955,103 +14955,103 @@
         "Country": "Poland",
         "Year": "2003",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2007",
         "Capacity": "0.1",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2008",
         "Capacity": "0.072",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2009",
         "Capacity": "0.34",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2010",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2011",
         "Capacity": "0.225",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2012",
         "Capacity": "0.784",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2013",
         "Capacity": "0.506",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2014",
         "Capacity": "0.38",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2015",
         "Capacity": "0.293",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2016",
         "Capacity": "0.24",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2017",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2019",
         "Capacity": "0.713",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2020",
         "Capacity": "1.87",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2021",
         "Capacity": "0.7",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2023",
         "Capacity": "0.45",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
         "Year": "2024",
         "Capacity": "0.0526",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Poland",
@@ -15098,7 +15098,7 @@
     {
         "Country": "Poland",
         "Year": "2032",
-        "Capacity": "0.8150000000000001",
+        "Capacity": "0.815",
         "Status": "Planned retire"
     },
     {
@@ -15135,13 +15135,13 @@
         "Country": "Portugal",
         "Year": "2000",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Portugal",
         "Year": "2021",
         "Capacity": "1.978",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Portugal",
@@ -15249,61 +15249,61 @@
         "Country": "Romania",
         "Year": "2006",
         "Capacity": "0.33",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2008",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2010",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2012",
         "Capacity": "0.21",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2013",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2015",
         "Capacity": "0.73",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2016",
         "Capacity": "0.1",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2019",
         "Capacity": "0.96",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2021",
         "Capacity": "1.72",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
         "Year": "2023",
         "Capacity": "0.33",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Romania",
@@ -15339,97 +15339,97 @@
         "Country": "Russia",
         "Year": "2000",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2002",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2004",
         "Capacity": "0.05",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2009",
         "Capacity": "0.141",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2011",
         "Capacity": "0.1",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2012",
         "Capacity": "0.18",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2013",
         "Capacity": "1.229",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2015",
-        "Capacity": "0.5449999999999999",
-        "Status": "nan"
+        "Capacity": "0.545",
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2016",
         "Capacity": "1.186",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2017",
         "Capacity": "1.425",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2018",
         "Capacity": "0.46",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2019",
-        "Capacity": "0.6839999999999999",
-        "Status": "nan"
+        "Capacity": "0.684",
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2020",
         "Capacity": "0.644",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2021",
         "Capacity": "1.297",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2022",
-        "Capacity": "0.5770000000000001",
-        "Status": "nan"
+        "Capacity": "0.577",
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
         "Year": "2023",
         "Capacity": "0.874",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Russia",
@@ -15891,49 +15891,49 @@
         "Country": "Slovakia",
         "Year": "2008",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2010",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2013",
         "Capacity": "0.032",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2015",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2019",
         "Capacity": "0.055",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2020",
         "Capacity": "0.032",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2023",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
         "Year": "2024",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovakia",
@@ -15945,30 +15945,30 @@
         "Country": "Slovenia",
         "Year": "2008",
         "Capacity": "0.03",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovenia",
         "Year": "2010",
         "Capacity": "0.03",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovenia",
         "Year": "2014",
         "Capacity": "0.075",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovenia",
         "Year": "2018",
         "Capacity": "0.4",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Slovenia",
         "Year": "2024",
-        "Capacity": "0.07400000000000001",
+        "Capacity": "0.074",
         "Status": "Planned retire"
     },
     {
@@ -15981,7 +15981,7 @@
         "Country": "South Africa",
         "Year": "2022",
         "Capacity": "1.18",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "South Africa",
@@ -16059,25 +16059,25 @@
         "Country": "South Korea",
         "Year": "2004",
         "Capacity": "0.075",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "South Korea",
         "Year": "2017",
         "Capacity": "0.525",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "South Korea",
         "Year": "2020",
         "Capacity": "1.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "South Korea",
         "Year": "2021",
         "Capacity": "1.68",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "South Korea",
@@ -16173,79 +16173,79 @@
         "Country": "Spain",
         "Year": "2006",
         "Capacity": "0.08",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2007",
         "Capacity": "0.753",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2008",
         "Capacity": "0.068",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2011",
         "Capacity": "0.16",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2012",
         "Capacity": "0.796",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2013",
         "Capacity": "0.59",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2015",
         "Capacity": "0.254",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2016",
         "Capacity": "0.5306",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2018",
         "Capacity": "0.365",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2019",
         "Capacity": "0.25",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2020",
         "Capacity": "4.7953",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2021",
         "Capacity": "1.517",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
         "Year": "2022",
         "Capacity": "0.7332",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Spain",
@@ -16256,7 +16256,7 @@
     {
         "Country": "Spain",
         "Year": "2025",
-        "Capacity": "0.8662000000000001",
+        "Capacity": "0.8662",
         "Status": "Planned retire"
     },
     {
@@ -16767,13 +16767,13 @@
         "Country": "Sweden",
         "Year": "2014",
         "Capacity": "0.15",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Sweden",
         "Year": "2020",
         "Capacity": "0.141",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Sweden",
@@ -17133,37 +17133,37 @@
         "Country": "Taiwan",
         "Year": "2007",
         "Capacity": "0.4",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
         "Year": "2012",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
         "Year": "2014",
         "Capacity": "0.6",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
         "Year": "2017",
         "Capacity": "0.6337",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
         "Year": "2021",
         "Capacity": "0.036",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
         "Year": "2022",
         "Capacity": "0.052",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Taiwan",
@@ -17697,13 +17697,13 @@
         "Country": "Thailand",
         "Year": "2000",
         "Capacity": "0.225",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Thailand",
         "Year": "2019",
         "Capacity": "0.45",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Thailand",
@@ -17889,19 +17889,19 @@
         "Country": "Ukraine",
         "Year": "2018",
         "Capacity": "1.731",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Ukraine",
         "Year": "2020",
         "Capacity": "0.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Ukraine",
         "Year": "2022",
         "Capacity": "0.22",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Ukraine",
@@ -18009,7 +18009,7 @@
         "Country": "United Arab Emirates",
         "Year": "2022",
         "Capacity": "1.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Arab Emirates",
@@ -18117,97 +18117,97 @@
         "Country": "United Kingdom",
         "Year": "2000",
         "Capacity": "1.2",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2002",
         "Capacity": "1.0",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2003",
         "Capacity": "2.075",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2007",
-        "Capacity": "0.06659999999999999",
-        "Status": "nan"
+        "Capacity": "0.0666",
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2011",
         "Capacity": "2.064",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2012",
         "Capacity": "2.172",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2013",
         "Capacity": "4.177",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2014",
         "Capacity": "1.887",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2015",
         "Capacity": "0.456",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2016",
         "Capacity": "5.317",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2017",
         "Capacity": "0.24",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2018",
         "Capacity": "2.833",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2019",
         "Capacity": "2.717",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2020",
         "Capacity": "3.324",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2022",
         "Capacity": "1.094",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
         "Year": "2023",
         "Capacity": "3.062",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United Kingdom",
@@ -18219,145 +18219,145 @@
         "Country": "United States",
         "Year": "2000",
         "Capacity": "0.1406",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2002",
         "Capacity": "0.6183",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2003",
         "Capacity": "1.4251",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2004",
-        "Capacity": "0.5700000000000001",
-        "Status": "nan"
+        "Capacity": "0.57",
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2005",
         "Capacity": "0.284",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2006",
         "Capacity": "0.271",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2007",
         "Capacity": "2.8138",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2008",
         "Capacity": "0.6594",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2009",
         "Capacity": "1.2221",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2010",
         "Capacity": "2.4517",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2011",
         "Capacity": "3.4169",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2012",
         "Capacity": "10.3627",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2013",
         "Capacity": "6.8005",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2014",
         "Capacity": "4.6133",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2015",
         "Capacity": "22.6759",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2016",
         "Capacity": "15.0071",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2017",
         "Capacity": "8.8708",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2018",
         "Capacity": "16.8356",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2019",
         "Capacity": "16.2498",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2020",
         "Capacity": "11.6635",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2021",
         "Capacity": "8.7018",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2022",
         "Capacity": "15.1641",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2023",
         "Capacity": "9.6527",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
         "Year": "2024",
         "Capacity": "2.9983",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "United States",
@@ -18453,7 +18453,7 @@
         "Country": "Uzbekistan",
         "Year": "2016",
         "Capacity": "0.241",
-        "Status": "nan"
+        "Status": "Retired"
     },
     {
         "Country": "Uzbekistan",

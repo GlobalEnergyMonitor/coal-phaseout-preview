@@ -5,16 +5,16 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{2125.5271}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{2126.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
         "Country": "G7",
-        "summary_1": "<span>None</span><br>Pledged Coal<br>Phaseout Year",
+        "summary_1": "<span>2035</span><br>Pledged Coal<br>Phaseout Year",
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{295.9937}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{296.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -23,7 +23,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{1968.1992}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{1968.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -32,7 +32,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{97.4918}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{97.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -41,7 +41,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{442.9242}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{443.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -50,7 +50,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{1472.0884}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{1472.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -176,7 +176,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{3.2308}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{3.2308000000000003}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -212,7 +212,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.217}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -221,7 +221,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.217}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{7.4036}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -230,7 +230,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{7.4036}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -239,7 +239,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{1.198}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -248,7 +248,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{1.198}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -257,7 +257,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{1.064}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -266,7 +266,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.0}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{1.064}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -311,7 +311,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{1.2852}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{1.2852000000000001}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -419,7 +419,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{239.6452}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{239.64520000000002}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -707,7 +707,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.8240000000000001}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.824}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -797,16 +797,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{37.8111}}</span><br>Total Operating<br>Capacity (GW)",
-        "summary_3_color": "#f27d16"
-    },
-    {
-        "Country": "Saudi Arabia",
-        "summary_1": "<span>None</span><br>Pledged Coal<br>Phaseout Year",
-        "summary_1_color": "#bf532c",
-        "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
-        "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{nan}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{37.811099999999996}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -878,7 +869,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2040</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{0.8999999999999999}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{0.9}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {
@@ -950,7 +941,7 @@
         "summary_1_color": "#bf532c",
         "summary_2": "<span>2030</span><br>1.5C Pathway<br>Phaseout Year",
         "summary_2_color": "#A8A8A8",
-        "summary_3": "<span>{{20.4732}}</span><br>Total Operating<br>Capacity (GW)",
+        "summary_3": "<span>{{20.473200000000002}}</span><br>Total Operating<br>Capacity (GW)",
         "summary_3_color": "#f27d16"
     },
     {

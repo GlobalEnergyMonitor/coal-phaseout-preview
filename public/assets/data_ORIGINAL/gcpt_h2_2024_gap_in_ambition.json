@@ -1,0 +1,1152 @@
+[
+    {
+        "Country": "Global",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "133.0"
+    },
+    {
+        "Country": "G7",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "49.0"
+    },
+    {
+        "Country": "G20",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "123.0"
+    },
+    {
+        "Country": "EU27",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "16.0"
+    },
+    {
+        "Country": "OECD",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "74.0"
+    },
+    {
+        "Country": "BRICS",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "92.0"
+    },
+    {
+        "Country": "Albania",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Argentina",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Australia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "3.7"
+    },
+    {
+        "Country": "Austria",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bangladesh",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.34"
+    },
+    {
+        "Country": "Belarus",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.13"
+    },
+    {
+        "Country": "Botswana",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Brazil",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.2"
+    },
+    {
+        "Country": "Brunei",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Bulgaria",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.29"
+    },
+    {
+        "Country": "Cambodia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.09"
+    },
+    {
+        "Country": "Canada",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.54"
+    },
+    {
+        "Country": "Chile",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.24"
+    },
+    {
+        "Country": "China",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "72.0"
+    },
+    {
+        "Country": "Colombia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.27"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Croatia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Czech Republic",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "1.2"
+    },
+    {
+        "Country": "Denmark",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.2"
+    },
+    {
+        "Country": "Djibouti",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.07"
+    },
+    {
+        "Country": "DR Congo",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Egypt",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Finland",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.21"
+    },
+    {
+        "Country": "France",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.34"
+    },
+    {
+        "Country": "Georgia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Germany",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "5.4"
+    },
+    {
+        "Country": "Ghana",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Greece",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.48"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guatemala",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Guinea",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Honduras",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Hong Kong",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.36"
+    },
+    {
+        "Country": "Hungary",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.15"
+    },
+    {
+        "Country": "India",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "15.0"
+    },
+    {
+        "Country": "Indonesia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "3.3"
+    },
+    {
+        "Country": "Iran",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ireland",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.15"
+    },
+    {
+        "Country": "Israel",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.72"
+    },
+    {
+        "Country": "Italy",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.87"
+    },
+    {
+        "Country": "Jamaica",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Japan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "9.1"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.81"
+    },
+    {
+        "Country": "Kenya",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kosovo",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.08"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Laos",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.12"
+    },
+    {
+        "Country": "Latvia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Malawi",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malaysia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.83"
+    },
+    {
+        "Country": "Mauritius",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Mexico",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.9"
+    },
+    {
+        "Country": "Moldova",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mongolia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.06"
+    },
+    {
+        "Country": "Montenegro",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Morocco",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.26"
+    },
+    {
+        "Country": "Mozambique",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Namibia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Netherlands",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.58"
+    },
+    {
+        "Country": "New Caledonia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "New Zealand",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.12"
+    },
+    {
+        "Country": "Niger",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "North Korea",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.2"
+    },
+    {
+        "Country": "North Macedonia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Oman",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.48"
+    },
+    {
+        "Country": "Panama",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Philippines",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.76"
+    },
+    {
+        "Country": "Poland",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "4.7"
+    },
+    {
+        "Country": "Portugal",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Romania",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.14"
+    },
+    {
+        "Country": "Russia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "2.4"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "2.4"
+    },
+    {
+        "Country": "Senegal",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Serbia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.28"
+    },
+    {
+        "Country": "Slovakia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Slovenia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.18"
+    },
+    {
+        "Country": "South Africa",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "2.8"
+    },
+    {
+        "Country": "South Korea",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "6.9"
+    },
+    {
+        "Country": "Spain",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.48"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.06"
+    },
+    {
+        "Country": "Sudan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Taiwan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "1.2"
+    },
+    {
+        "Country": "Tajikistan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "Tanzania",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Thailand",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.38"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "3.4"
+    },
+    {
+        "Country": "Ukraine",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.34"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Kingdom",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.36"
+    },
+    {
+        "Country": "United States",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "33.0"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.16"
+    },
+    {
+        "Country": "Venezuela",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "1.7"
+    },
+    {
+        "Country": "Zambia",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Retirements": "Annual retirements needed for 1.5C",
+        "Capacity": "0.1"
+    },
+    {
+        "Country": "Global",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "20.0"
+    },
+    {
+        "Country": "G7",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "21.0"
+    },
+    {
+        "Country": "G20",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "18.0"
+    },
+    {
+        "Country": "EU27",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "9.6"
+    },
+    {
+        "Country": "OECD",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "28.0"
+    },
+    {
+        "Country": "BRICS",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "2.8"
+    },
+    {
+        "Country": "Albania",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Argentina",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "Australia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "1.0"
+    },
+    {
+        "Country": "Austria",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bangladesh",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belarus",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Belgium",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bosnia and Herzegovina",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Botswana",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Brazil",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.16"
+    },
+    {
+        "Country": "Brunei",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Bulgaria",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Cambodia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Canada",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.69"
+    },
+    {
+        "Country": "Chile",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.26"
+    },
+    {
+        "Country": "China",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.4"
+    },
+    {
+        "Country": "Colombia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.04"
+    },
+    {
+        "Country": "C\u00f4te d'Ivoire",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Croatia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Czech Republic",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.22"
+    },
+    {
+        "Country": "Denmark",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.26"
+    },
+    {
+        "Country": "Djibouti",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Dominican Republic",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "DR Congo",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Egypt",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "El Salvador",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Eswatini",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ethiopia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Finland",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.22"
+    },
+    {
+        "Country": "France",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.34"
+    },
+    {
+        "Country": "Georgia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Germany",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "4.0"
+    },
+    {
+        "Country": "Ghana",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Greece",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.48"
+    },
+    {
+        "Country": "Guadeloupe",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guatemala",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Guinea",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Honduras",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Hong Kong",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Hungary",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.17"
+    },
+    {
+        "Country": "India",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.04"
+    },
+    {
+        "Country": "Indonesia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.13"
+    },
+    {
+        "Country": "Iran",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ireland",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.15"
+    },
+    {
+        "Country": "Israel",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.72"
+    },
+    {
+        "Country": "Italy",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "1.0"
+    },
+    {
+        "Country": "Jamaica",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Japan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.48"
+    },
+    {
+        "Country": "Kazakhstan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.08"
+    },
+    {
+        "Country": "Kenya",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Kosovo",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Kyrgyzstan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Laos",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Latvia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Madagascar",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malawi",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Malaysia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.46"
+    },
+    {
+        "Country": "Mauritius",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mexico",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.23"
+    },
+    {
+        "Country": "Moldova",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Mongolia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Montenegro",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Morocco",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Mozambique",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Myanmar",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Namibia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Netherlands",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.58"
+    },
+    {
+        "Country": "New Caledonia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "New Zealand",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "Niger",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Nigeria",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Korea",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "North Macedonia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Oman",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Pakistan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Panama",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.02"
+    },
+    {
+        "Country": "Papua New Guinea",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Peru",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Philippines",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.03"
+    },
+    {
+        "Country": "Poland",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "1.4"
+    },
+    {
+        "Country": "Portugal",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Romania",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.18"
+    },
+    {
+        "Country": "Russia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.29"
+    },
+    {
+        "Country": "Saudi Arabia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.29"
+    },
+    {
+        "Country": "Senegal",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Serbia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.07"
+    },
+    {
+        "Country": "Slovakia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.05"
+    },
+    {
+        "Country": "Slovenia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.01"
+    },
+    {
+        "Country": "South Africa",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "1.9"
+    },
+    {
+        "Country": "South Korea",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "1.6"
+    },
+    {
+        "Country": "Spain",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.27"
+    },
+    {
+        "Country": "Sri Lanka",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sudan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Sweden",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Syria",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Taiwan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.69"
+    },
+    {
+        "Country": "Tajikistan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Tanzania",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Thailand",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.22"
+    },
+    {
+        "Country": "T\u00fcrkiye",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Ukraine",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Arab Emirates",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "United Kingdom",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.36"
+    },
+    {
+        "Country": "United States",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "14.0"
+    },
+    {
+        "Country": "Uzbekistan",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Venezuela",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Vietnam",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zambia",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    },
+    {
+        "Country": "Zimbabwe",
+        "Retirements": "Annual retirements planned",
+        "Capacity": "0.0"
+    }
+]
