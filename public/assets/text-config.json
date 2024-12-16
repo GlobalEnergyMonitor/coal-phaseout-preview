@@ -6,459 +6,463 @@
   "dropdown": [
     {
       "Country": "Global",
-      "overall_summary": "Global operating coal power capacity has increased 11% since 2015."
-    },
-    {
-      "Country": "BRICS",
-      "overall_summary": "Operating coal power capacity in BRICS countries has increased 23% since 2015."
-    },
-    {
-      "Country": "EU27",
-      "overall_summary": "Operating coal power capacity in the 27 member states of the European Union (EU27) has fallen 34% since 2015.<br>Only a single coal-fired power station, in Poland, remains in development."
+      "overall_summary": "According to the IEA's Net Zero scenario, advanced economies should phase out all unabated coal power by 2030 and the rest of the world by 2040. As of January 2025, there are plans to retire 14% (302 GW) of the world's 2126 GW operating coal fleet by 2040. The world as a whole has not yet pledged to phase out coal power on a specific timeline, although several individual countries and regions have."
     },
     {
       "Country": "G7",
-      "overall_summary": "The Group of Seven major industrial countries (G7) accounts for 14% of the world’s operating coal capacity, down from 23% in 2015.<br>The G7 no longer has any coal in construction, but is still home to one proposal in Japan and two in the United States."
+      "overall_summary": "According to the IEA's Net Zero scenario, G7 nations as advanced economies should phase out all unabated coal power by 2030. As of January 2025, G7 plans to retire 36% (105 GW) of its 296 GW operating coal fleet by 2030. The G7 have committed to phasing out coal power by 2035."
     },
     {
       "Country": "G20",
-      "overall_summary": "The Group of Twenty (G20) is home to 93% of the world’s operating coal capacity and 89% of coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "According to the IEA's Net Zero scenario, advanced economies should phase out all unabated coal power by 2030 and the rest of the world by 2040. Several G20 countries are considered advanced economies. As of January 2025, G20 plans to retire 13% (265 GW) of its 1968 GW operating coal fleet by 2040. The G20 as a group has not committed to phasing out coal power, although some individual G20 countries have."
+    },
+    {
+      "Country": "EU27",
+      "overall_summary": "According to the IEA's Net Zero scenario, EU27 should phase out all unabated coal power by 2030. As of January 2025, EU27 plans to retire 48% (47 GW) of its 97 GW operating coal fleet by 2030. The EU27 has not pledged to phase out coal power."
     },
     {
       "Country": "OECD",
-      "overall_summary": "Operating coal power capacity in countries part of the Organisation for Economic Co-operation and Development (OECD) has fallen 26% since 2015.<br>Only four countries in the OECD, Australia, Japan, Türkiye, and the United States, are still considering coal projects."
+      "overall_summary": "According to the IEA's Net Zero scenario, advanced economies should phase out all unabated coal power by 2030 and the rest of the world by 2040. Most countries within the OECD are considered advanced economies. As of January 2025, OECD plans to retire 33% (145 GW) of its 443 GW operating coal fleet by 2030. The OECD as a group has not committed to phasing out coal power, although some individual OECD countries have."
+    },
+    {
+      "Country": "BRICS",
+      "overall_summary": "According to the IEA's Net Zero scenario, BRICS countries should phase out all unabated coal power by 2040. As of January 2025, BRICS plans to retire 2.9% (42 GW) of its 1472 GW operating coal fleet by 2040. BRICS countries have not made a pledge to phase out coal power."
     },
     {
       "Country": "Albania",
-      "overall_summary": "Albania has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Albania should phase out all unabated coal power by 2040. Albania has no operating coal power. The Albania has not pledged to phase out coal power."
     },
     {
       "Country": "Argentina",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Argentina should phase out all unabated coal power by 2040. As of January 2025, Argentina plans to retire 76% (0.38 GW) of its 0.5 GW operating coal fleet by 2040. The Argentina has not pledged to phase out coal power."
     },
     {
       "Country": "Australia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Australia should phase out all unabated coal power by 2030. As of January 2025, Australia plans to retire 27% (6.1 GW) of its 22 GW operating coal fleet by 2030. The Australia has not pledged to phase out coal power."
     },
     {
       "Country": "Austria",
-      "overall_summary": "Austria has retired all its coal plants."
+      "overall_summary": "According to the IEA's Net Zero scenario, Austria should phase out all unabated coal power by 2030. Austria has no operating coal power. Austria has pledged to phase out coal by 2020."
     },
     {
       "Country": "Bangladesh",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Bangladesh should phase out all unabated coal power by 2040. As of January 2025, Bangladesh plans to retire 0% (0 GW) of its 5.4 GW operating coal fleet by 2040. The Bangladesh has not pledged to phase out coal power."
     },
     {
       "Country": "Belarus",
-      "overall_summary": "Belarus has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Belarus should phase out all unabated coal power by 2040. Belarus has no operating coal power. The Belarus has not pledged to phase out coal power."
     },
     {
       "Country": "Belgium",
-      "overall_summary": "Belgium has retired all its operating coal plants."
+      "overall_summary": "According to the IEA's Net Zero scenario, Belgium should phase out all unabated coal power by 2030. Belgium has no operating coal power. The Belgium has not pledged to phase out coal power."
     },
     {
       "Country": "Bosnia and Herzegovina",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Bosnia and Herzegovina should phase out all unabated coal power by 2040. As of January 2025, Bosnia and Herzegovina plans to retire 15% (0.32 GW) of its 2.1 GW operating coal fleet by 2040. The Bosnia and Herzegovina has not pledged to phase out coal power."
     },
     {
       "Country": "Botswana",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Botswana should phase out all unabated coal power by 2040. As of January 2025, Botswana plans to retire 18% (0.13 GW) of its 0.73 GW operating coal fleet by 2040. The Botswana has not pledged to phase out coal power."
     },
     {
       "Country": "Brazil",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Brazil should phase out all unabated coal power by 2040. As of January 2025, Brazil plans to retire 76% (2.4 GW) of its 3.2 GW operating coal fleet by 2040. The Brazil has not pledged to phase out coal power."
     },
     {
       "Country": "Brunei",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Brunei should phase out all unabated coal power by 2040. As of January 2025, Brunei plans to retire 0% (0 GW) of its 0.22 GW operating coal fleet by 2040. The Brunei has not pledged to phase out coal power."
     },
     {
       "Country": "Bulgaria",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Bulgaria should phase out all unabated coal power by 2040. As of January 2025, Bulgaria plans to retire 0% (0 GW) of its 4.6 GW operating coal fleet by 2040. Bulgaria has pledged to phase out coal by 2038."
     },
     {
       "Country": "Cambodia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Cambodia should phase out all unabated coal power by 2040. As of January 2025, Cambodia plans to retire 0% (0 GW) of its 1.5 GW operating coal fleet by 2040. The Cambodia has not pledged to phase out coal power."
     },
     {
       "Country": "Canada",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Canada should phase out all unabated coal power by 2030. As of January 2025, Canada plans to retire 92% (3 GW) of its 3.2 GW operating coal fleet by 2030. Canada has pledged to phase out coal by 2030."
     },
     {
       "Country": "Chile",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Chile should phase out all unabated coal power by 2040. As of January 2025, Chile plans to retire 91% (3.5 GW) of its 3.8 GW operating coal fleet by 2040. Chile has pledged to phase out coal by 2040."
     },
     {
       "Country": "China",
-      "overall_summary": "China ranks first in terms of operating coal power capacity.<br>It also has two-thirds of the world's coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "According to the IEA's Net Zero scenario, China should phase out all unabated coal power by 2040. As of January 2025, China plans to retire 0.4% (4.6 GW) of its 1147 GW operating coal fleet by 2040. The China has not pledged to phase out coal power."
     },
     {
       "Country": "Colombia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Colombia should phase out all unabated coal power by 2030. As of January 2025, Colombia plans to retire 14% (0.24 GW) of its 1.6 GW operating coal fleet by 2030. Colombia has pledged to phase out coal by 2030."
+    },
+    {
+      "Country": "C\u00f4te d'Ivoire",
+      "overall_summary": "According to the IEA's Net Zero scenario, C\u00f4te d'Ivoire should phase out all unabated coal power by 2040. C\u00f4te d'Ivoire has no operating coal power. C\u00f4te d'Ivoire has pledged to phase out coal by 2021."
     },
     {
       "Country": "Croatia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Croatia should phase out all unabated coal power by 2040. As of January 2025, Croatia plans to retire 0% (0 GW) of its 0.22 GW operating coal fleet by 2040. Croatia has pledged to phase out coal by 2033."
     },
     {
       "Country": "Czech Republic",
-      "overall_summary": ""
-    },
-    {
-      "Country": "Côte d'Ivoire",
-      "overall_summary": ""
-    },
-    {
-      "Country": "DR Congo",
-      "overall_summary": "DR Congo has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Czech Republic should phase out all unabated coal power by 2030. As of January 2025, Czech Republic plans to retire 18% (1.3 GW) of its 7.4 GW operating coal fleet by 2030. Czech Republic has pledged to phase out coal by 2033."
     },
     {
       "Country": "Denmark",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Denmark should phase out all unabated coal power by 2030. As of January 2025, Denmark plans to retire 34% (0.41 GW) of its 1.2 GW operating coal fleet by 2030. Denmark has pledged to phase out coal by 2028."
     },
     {
       "Country": "Djibouti",
-      "overall_summary": "Djibouti has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Djibouti should phase out all unabated coal power by 2040. Djibouti has no operating coal power. The Djibouti has not pledged to phase out coal power."
     },
     {
       "Country": "Dominican Republic",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Dominican Republic should phase out all unabated coal power by 2040. As of January 2025, Dominican Republic plans to retire 0% (0 GW) of its 1.1 GW operating coal fleet by 2040. The Dominican Republic has not pledged to phase out coal power."
+    },
+    {
+      "Country": "DR Congo",
+      "overall_summary": "According to the IEA's Net Zero scenario, DR Congo should phase out all unabated coal power by 2040. DR Congo has no operating coal power. The DR Congo has not pledged to phase out coal power."
     },
     {
       "Country": "Egypt",
-      "overall_summary": "Egypt has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Egypt should phase out all unabated coal power by 2040. Egypt has no operating coal power. Egypt has pledged to phase out coal by 2021."
     },
     {
       "Country": "El Salvador",
-      "overall_summary": "El Salvador has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, El Salvador should phase out all unabated coal power by 2040. El Salvador has no operating coal power. The El Salvador has not pledged to phase out coal power."
     },
     {
       "Country": "Eswatini",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Eswatini should phase out all unabated coal power by 2040. Eswatini has no operating coal power. The Eswatini has not pledged to phase out coal power."
     },
     {
       "Country": "Ethiopia",
-      "overall_summary": "Ethiopia has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Ethiopia should phase out all unabated coal power by 2040. Ethiopia has no operating coal power. The Ethiopia has not pledged to phase out coal power."
     },
     {
       "Country": "Finland",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Finland should phase out all unabated coal power by 2030. As of January 2025, Finland plans to retire 97% (1.2 GW) of its 1.3 GW operating coal fleet by 2030. Finland has pledged to phase out coal by 2029."
     },
     {
       "Country": "France",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, France should phase out all unabated coal power by 2030. As of January 2025, France plans to retire 94% (1.9 GW) of its 2 GW operating coal fleet by 2030. France has pledged to phase out coal by 2027."
     },
     {
       "Country": "Georgia",
-      "overall_summary": "Georgia has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Georgia should phase out all unabated coal power by 2040. Georgia has no operating coal power. The Georgia has not pledged to phase out coal power."
     },
     {
       "Country": "Germany",
-      "overall_summary": "Germany ranks ninth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, Germany should phase out all unabated coal power by 2030. As of January 2025, Germany plans to retire 51% (16 GW) of its 32 GW operating coal fleet by 2030. Germany has pledged to phase out coal by 2030."
     },
     {
       "Country": "Ghana",
-      "overall_summary": "Ghana has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Ghana should phase out all unabated coal power by 2040. Ghana has no operating coal power. The Ghana has not pledged to phase out coal power."
     },
     {
       "Country": "Greece",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Greece should phase out all unabated coal power by 2030. As of January 2025, Greece plans to retire 100% (2.9 GW) of its 2.9 GW operating coal fleet by 2030. Greece has pledged to phase out coal by 2028."
     },
     {
       "Country": "Guadeloupe",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Guadeloupe should phase out all unabated coal power by 2040. As of January 2025, Guadeloupe plans to retire 0% (0 GW) of its 06 GW operating coal fleet by 2040. The Guadeloupe has not pledged to phase out coal power."
     },
     {
       "Country": "Guatemala",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Guatemala should phase out all unabated coal power by 2040. As of January 2025, Guatemala plans to retire 0% (0 GW) of its 0.44 GW operating coal fleet by 2040. The Guatemala has not pledged to phase out coal power."
     },
     {
       "Country": "Guinea",
-      "overall_summary": "Guinea has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Guinea should phase out all unabated coal power by 2040. Guinea has no operating coal power. The Guinea has not pledged to phase out coal power."
     },
     {
       "Country": "Honduras",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Honduras should phase out all unabated coal power by 2040. As of January 2025, Honduras plans to retire 100% (0.11 GW) of its 0.1 GW operating coal fleet by 2040. The Honduras has not pledged to phase out coal power."
     },
     {
       "Country": "Hong Kong",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Hong Kong should phase out all unabated coal power by 2040. As of January 2025, Hong Kong plans to retire 0% (0 GW) of its 5.8 GW operating coal fleet by 2040. Hong Kong has pledged to phase out coal by 2035."
     },
     {
       "Country": "Hungary",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Hungary should phase out all unabated coal power by 2030. As of January 2025, Hungary plans to retire 100% (0.88 GW) of its 0.88 GW operating coal fleet by 2030. Hungary has pledged to phase out coal by 2029."
     },
     {
       "Country": "India",
-      "overall_summary": "India ranks second in terms of operating coal power capacity.<br>It has 18% of the world's coal capacity under consideration (in pre-construction stages)."
+      "overall_summary": "According to the IEA's Net Zero scenario, India should phase out all unabated coal power by 2040. As of January 2025, India plans to retire 0.18% (0.42 GW) of its 240 GW operating coal fleet by 2040. The India has not pledged to phase out coal power."
     },
     {
       "Country": "Indonesia",
-      "overall_summary": "Indonesia ranks fifth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, Indonesia should phase out all unabated coal power by 2040. As of January 2025, Indonesia plans to retire 3.6% (1.9 GW) of its 52 GW operating coal fleet by 2040. The Indonesia has not pledged to phase out coal power."
     },
     {
       "Country": "Iran",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Iran should phase out all unabated coal power by 2040. Iran has no operating coal power. The Iran has not pledged to phase out coal power."
     },
     {
       "Country": "Ireland",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Ireland should phase out all unabated coal power by 2030. As of January 2025, Ireland plans to retire 100% (0.92 GW) of its 0.92 GW operating coal fleet by 2030. Ireland has pledged to phase out coal by 2025."
     },
     {
       "Country": "Israel",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Israel should phase out all unabated coal power by 2030. As of January 2025, Israel plans to retire 100% (4.3 GW) of its 4.3 GW operating coal fleet by 2030. Israel has pledged to phase out coal by 2025."
     },
     {
       "Country": "Italy",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Italy should phase out all unabated coal power by 2030. As of January 2025, Italy plans to retire 112% (5.8 GW) of its 5.2 GW operating coal fleet by 2030. Italy has pledged to phase out coal by 2027."
     },
     {
       "Country": "Jamaica",
-      "overall_summary": "Jamaica has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Jamaica should phase out all unabated coal power by 2040. Jamaica has no operating coal power. The Jamaica has not pledged to phase out coal power."
     },
     {
       "Country": "Japan",
-      "overall_summary": "Japan ranks fourth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, Japan should phase out all unabated coal power by 2030. As of January 2025, Japan plans to retire 2.6% (1.4 GW) of its 55 GW operating coal fleet by 2030. The Japan has not pledged to phase out coal power."
     },
     {
       "Country": "Kazakhstan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Kazakhstan should phase out all unabated coal power by 2040. As of January 2025, Kazakhstan plans to retire 9% (1.2 GW) of its 13 GW operating coal fleet by 2040. The Kazakhstan has not pledged to phase out coal power."
     },
     {
       "Country": "Kenya",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Kenya should phase out all unabated coal power by 2040. Kenya has no operating coal power. The Kenya has not pledged to phase out coal power."
     },
     {
       "Country": "Kosovo",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Kosovo should phase out all unabated coal power by 2040. As of January 2025, Kosovo plans to retire 32% (0.41 GW) of its 1.3 GW operating coal fleet by 2040. Kosovo has pledged to phase out coal by 2050."
     },
     {
       "Country": "Kyrgyzstan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Kyrgyzstan should phase out all unabated coal power by 2040. As of January 2025, Kyrgyzstan plans to retire 63% (0.51 GW) of its 0.81 GW operating coal fleet by 2040. The Kyrgyzstan has not pledged to phase out coal power."
     },
     {
       "Country": "Laos",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Laos should phase out all unabated coal power by 2040. As of January 2025, Laos plans to retire 0% (0 GW) of its 1.9 GW operating coal fleet by 2040. The Laos has not pledged to phase out coal power."
     },
     {
       "Country": "Latvia",
-      "overall_summary": "Latvia has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Latvia should phase out all unabated coal power by 2030. Latvia has no operating coal power. The Latvia has not pledged to phase out coal power."
     },
     {
       "Country": "Madagascar",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Madagascar should phase out all unabated coal power by 2040. As of January 2025, Madagascar plans to retire 0% (0 GW) of its 0.12 GW operating coal fleet by 2040. The Madagascar has not pledged to phase out coal power."
     },
     {
       "Country": "Malawi",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Malawi should phase out all unabated coal power by 2040. Malawi has no operating coal power. The Malawi has not pledged to phase out coal power."
     },
     {
       "Country": "Malaysia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Malaysia should phase out all unabated coal power by 2040. As of January 2025, Malaysia plans to retire 56% (7.4 GW) of its 13 GW operating coal fleet by 2040. The Malaysia has not pledged to phase out coal power."
     },
     {
       "Country": "Mauritius",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Mauritius should phase out all unabated coal power by 2040. As of January 2025, Mauritius plans to retire 0% (0 GW) of its 0.2 GW operating coal fleet by 2040. Mauritius has pledged to phase out coal by 2030."
     },
     {
       "Country": "Mexico",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Mexico should phase out all unabated coal power by 2030. As of January 2025, Mexico plans to retire 26% (1.4 GW) of its 5.4 GW operating coal fleet by 2030. The Mexico has not pledged to phase out coal power."
     },
     {
       "Country": "Moldova",
-      "overall_summary": "Moldova has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Moldova should phase out all unabated coal power by 2040. Moldova has no operating coal power. The Moldova has not pledged to phase out coal power."
     },
     {
       "Country": "Mongolia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Mongolia should phase out all unabated coal power by 2040. As of January 2025, Mongolia plans to retire 0% (0 GW) of its 1 GW operating coal fleet by 2040. The Mongolia has not pledged to phase out coal power."
     },
     {
       "Country": "Montenegro",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Montenegro should phase out all unabated coal power by 2040. As of January 2025, Montenegro plans to retire 100% (0.22 GW) of its 0.22 GW operating coal fleet by 2040. Montenegro has pledged to phase out coal by 2035."
     },
     {
       "Country": "Morocco",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Morocco should phase out all unabated coal power by 2040. As of January 2025, Morocco plans to retire 0% (0 GW) of its 4.1 GW operating coal fleet by 2040. The Morocco has not pledged to phase out coal power."
     },
     {
       "Country": "Mozambique",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Mozambique should phase out all unabated coal power by 2040. Mozambique has no operating coal power. The Mozambique has not pledged to phase out coal power."
     },
     {
       "Country": "Myanmar",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Myanmar should phase out all unabated coal power by 2040. As of January 2025, Myanmar plans to retire 0% (0 GW) of its 0.19 GW operating coal fleet by 2040. Myanmar has pledged to phase out coal by 2050."
     },
     {
       "Country": "Namibia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Namibia should phase out all unabated coal power by 2040. As of January 2025, Namibia plans to retire 100% (0.12 GW) of its 0.12 GW operating coal fleet by 2040. The Namibia has not pledged to phase out coal power."
     },
     {
       "Country": "Netherlands",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Netherlands should phase out all unabated coal power by 2030. As of January 2025, Netherlands plans to retire 100% (3.5 GW) of its 3.5 GW operating coal fleet by 2030. Netherlands has pledged to phase out coal by 2029."
     },
     {
       "Country": "New Caledonia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, New Caledonia should phase out all unabated coal power by 2040. As of January 2025, New Caledonia plans to retire 27% (0.1 GW) of its 0.37 GW operating coal fleet by 2040. The New Caledonia has not pledged to phase out coal power."
     },
     {
       "Country": "New Zealand",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, New Zealand should phase out all unabated coal power by 2030. As of January 2025, New Zealand plans to retire nan% (nan GW) of its 0.75 GW operating coal fleet by 2030. New Zealand has pledged to phase out coal by 2030."
     },
     {
       "Country": "Niger",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Niger should phase out all unabated coal power by 2040. Niger has no operating coal power. The Niger has not pledged to phase out coal power."
     },
     {
       "Country": "Nigeria",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Nigeria should phase out all unabated coal power by 2040. As of January 2025, Nigeria plans to retire 0% (0 GW) of its 0.28 GW operating coal fleet by 2040. The Nigeria has not pledged to phase out coal power."
     },
     {
       "Country": "North Korea",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, North Korea should phase out all unabated coal power by 2040. As of January 2025, North Korea plans to retire 0% (0 GW) of its 3.2 GW operating coal fleet by 2040. The North Korea has not pledged to phase out coal power."
     },
     {
       "Country": "North Macedonia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, North Macedonia should phase out all unabated coal power by 2040. As of January 2025, North Macedonia plans to retire 100% (0.82 GW) of its 0.82 GW operating coal fleet by 2040. North Macedonia has pledged to phase out coal by 2030."
     },
     {
       "Country": "Oman",
-      "overall_summary": "Oman has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Oman should phase out all unabated coal power by 2040. Oman has no operating coal power. The Oman has not pledged to phase out coal power."
     },
     {
       "Country": "Pakistan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Pakistan should phase out all unabated coal power by 2040. As of January 2025, Pakistan plans to retire 0% (0 GW) of its 7.6 GW operating coal fleet by 2040. The Pakistan has not pledged to phase out coal power."
     },
     {
       "Country": "Panama",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Panama should phase out all unabated coal power by 2040. As of January 2025, Panama plans to retire 100% (0.31 GW) of its 0.31 GW operating coal fleet by 2040. Panama has pledged to phase out coal by 2030."
     },
     {
       "Country": "Papua New Guinea",
-      "overall_summary": "Papua New Guinea has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Papua New Guinea should phase out all unabated coal power by 2040. Papua New Guinea has no operating coal power. The Papua New Guinea has not pledged to phase out coal power."
     },
     {
       "Country": "Peru",
-      "overall_summary": "Peru has retired all its coal plants."
+      "overall_summary": "According to the IEA's Net Zero scenario, Peru should phase out all unabated coal power by 2040. Peru has no operating coal power. The Peru has not pledged to phase out coal power."
     },
     {
       "Country": "Philippines",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Philippines should phase out all unabated coal power by 2040. As of January 2025, Philippines plans to retire 4.1% (0.5 GW) of its 12 GW operating coal fleet by 2040. The Philippines has not pledged to phase out coal power."
     },
     {
       "Country": "Poland",
-      "overall_summary": "Poland ranks tenth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, Poland should phase out all unabated coal power by 2030. As of January 2025, Poland plans to retire 26% (7.5 GW) of its 28 GW operating coal fleet by 2030. Poland has pledged to phase out coal by 2049."
     },
     {
       "Country": "Portugal",
-      "overall_summary": "Portugal has retired all its coal plants."
+      "overall_summary": "According to the IEA's Net Zero scenario, Portugal should phase out all unabated coal power by 2030. Portugal has no operating coal power. Portugal has pledged to phase out coal by 2021."
     },
     {
       "Country": "Romania",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Romania should phase out all unabated coal power by 2040. As of January 2025, Romania plans to retire 126% (2.9 GW) of its 2.3 GW operating coal fleet by 2040. Romania has pledged to phase out coal by 2032."
     },
     {
       "Country": "Russia",
-      "overall_summary": "Russia ranks eighth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, Russia should phase out all unabated coal power by 2040. As of January 2025, Russia plans to retire 12% (4.5 GW) of its 38 GW operating coal fleet by 2040. The Russia has not pledged to phase out coal power."
+    },
+    {
+      "Country": "Saudi Arabia",
+      "overall_summary": "According to the IEA's Net Zero scenario, Saudi Arabia should phase out all unabated coal power by 2030. As of January 2025, Saudi Arabia plans to retire nan% (nan GW) of its nan GW operating coal fleet by 2030. The Saudi Arabia has not pledged to phase out coal power."
     },
     {
       "Country": "Senegal",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Senegal should phase out all unabated coal power by 2040. As of January 2025, Senegal plans to retire 0% (0 GW) of its 0.16 GW operating coal fleet by 2040. The Senegal has not pledged to phase out coal power."
     },
     {
       "Country": "Serbia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Serbia should phase out all unabated coal power by 2040. As of January 2025, Serbia plans to retire 16% (0.73 GW) of its 4.4 GW operating coal fleet by 2040. Serbia has pledged to phase out coal by 2050."
     },
     {
       "Country": "Slovakia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Slovakia should phase out all unabated coal power by 2030. As of January 2025, Slovakia plans to retire 24% (07 GW) of its 0.27 GW operating coal fleet by 2030. Slovakia has pledged to phase out coal by 2024."
     },
     {
       "Country": "Slovenia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Slovenia should phase out all unabated coal power by 2030. As of January 2025, Slovenia plans to retire nan% (nan GW) of its 1.1 GW operating coal fleet by 2030. Slovenia has pledged to phase out coal by 2033."
     },
     {
       "Country": "South Africa",
-      "overall_summary": "South Africa ranks sixth in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, South Africa should phase out all unabated coal power by 2040. As of January 2025, South Africa plans to retire 69% (31 GW) of its 44 GW operating coal fleet by 2040. The South Africa has not pledged to phase out coal power."
     },
     {
       "Country": "South Korea",
-      "overall_summary": "South Korea ranks seventh in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, South Korea should phase out all unabated coal power by 2030. As of January 2025, South Korea plans to retire 20% (8.4 GW) of its 41 GW operating coal fleet by 2030. South Korea has pledged to phase out coal by 2050."
     },
     {
       "Country": "Spain",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Spain should phase out all unabated coal power by 2030. As of January 2025, Spain plans to retire 30% (0.87 GW) of its 2.9 GW operating coal fleet by 2030. Spain has pledged to phase out coal by 2025."
     },
     {
       "Country": "Sri Lanka",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Sri Lanka should phase out all unabated coal power by 2040. As of January 2025, Sri Lanka plans to retire 0% (0 GW) of its 0.9 GW operating coal fleet by 2040. Sri Lanka has pledged to phase out coal by 2042."
     },
     {
       "Country": "Sudan",
-      "overall_summary": "Sudan has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Sudan should phase out all unabated coal power by 2040. Sudan has no operating coal power. The Sudan has not pledged to phase out coal power."
     },
     {
       "Country": "Sweden",
-      "overall_summary": "Sweden has retired all its coal plants."
+      "overall_summary": "According to the IEA's Net Zero scenario, Sweden should phase out all unabated coal power by 2030. Sweden has no operating coal power. The Sweden has not pledged to phase out coal power."
     },
     {
       "Country": "Syria",
-      "overall_summary": "Syria has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Syria should phase out all unabated coal power by 2040. Syria has no operating coal power. The Syria has not pledged to phase out coal power."
     },
     {
       "Country": "Taiwan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Taiwan should phase out all unabated coal power by 2040. As of January 2025, Taiwan plans to retire 57% (11 GW) of its 19 GW operating coal fleet by 2040. The Taiwan has not pledged to phase out coal power."
     },
     {
       "Country": "Tajikistan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Tajikistan should phase out all unabated coal power by 2040. As of January 2025, Tajikistan plans to retire 0% (0 GW) of its 0.4 GW operating coal fleet by 2040. The Tajikistan has not pledged to phase out coal power."
     },
     {
       "Country": "Tanzania",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Tanzania should phase out all unabated coal power by 2040. Tanzania has no operating coal power. The Tanzania has not pledged to phase out coal power."
     },
     {
       "Country": "Thailand",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Thailand should phase out all unabated coal power by 2040. As of January 2025, Thailand plans to retire 58% (3.6 GW) of its 6.1 GW operating coal fleet by 2040. The Thailand has not pledged to phase out coal power."
     },
     {
-      "Country": "Türkiye",
-      "overall_summary": ""
+      "Country": "T\u00fcrkiye",
+      "overall_summary": "According to the IEA's Net Zero scenario, T\u00fcrkiye should phase out all unabated coal power by 2030. As of January 2025, T\u00fcrkiye plans to retire nan% (nan GW) of its 20 GW operating coal fleet by 2030. The T\u00fcrkiye has not pledged to phase out coal power."
     },
     {
       "Country": "Ukraine",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Ukraine should phase out all unabated coal power by 2040. As of January 2025, Ukraine plans to retire 0% (0 GW) of its 5.4 GW operating coal fleet by 2040. Ukraine has pledged to phase out coal by 2035."
     },
     {
       "Country": "United Arab Emirates",
-      "overall_summary": "The United Arab Emirates has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, United Arab Emirates should phase out all unabated coal power by 2040. United Arab Emirates has no operating coal power. The United Arab Emirates has not pledged to phase out coal power."
     },
     {
       "Country": "United Kingdom",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, United Kingdom should phase out all unabated coal power by 2030. As of January 2025, United Kingdom plans to retire nan% (nan GW) of its 2.2 GW operating coal fleet by 2030. United Kingdom has pledged to phase out coal by 2024."
     },
     {
       "Country": "United States",
-      "overall_summary": "The United States ranks third in terms of operating coal power capacity."
+      "overall_summary": "According to the IEA's Net Zero scenario, United States should phase out all unabated coal power by 2030. As of January 2025, United States plans to retire 39% (77 GW) of its 196 GW operating coal fleet by 2030. United States has pledged to phase out coal by 2035."
     },
     {
       "Country": "Uzbekistan",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Uzbekistan should phase out all unabated coal power by 2040. As of January 2025, Uzbekistan plans to retire 0% (0 GW) of its 2.5 GW operating coal fleet by 2040. The Uzbekistan has not pledged to phase out coal power."
     },
     {
       "Country": "Venezuela",
-      "overall_summary": "Venezuela has no operating coal plants. It also has no coal power under development."
+      "overall_summary": "According to the IEA's Net Zero scenario, Venezuela should phase out all unabated coal power by 2040. Venezuela has no operating coal power. The Venezuela has not pledged to phase out coal power."
     },
     {
       "Country": "Vietnam",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Vietnam should phase out all unabated coal power by 2040. As of January 2025, Vietnam plans to retire 0% (0 GW) of its 27 GW operating coal fleet by 2040. The Vietnam has not pledged to phase out coal power."
     },
     {
       "Country": "Zambia",
-      "overall_summary": ""
+      "overall_summary": "According to the IEA's Net Zero scenario, Zambia should phase out all unabated coal power by 2040. As of January 2025, Zambia plans to retire 0% (0 GW) of its 0.33 GW operating coal fleet by 2040. The Zambia has not pledged to phase out coal power."
     },
     {
       "Country": "Zimbabwe",
-      "overall_summary": ""
-    }  
-  ]  
+      "overall_summary": "According to the IEA's Net Zero scenario, Zimbabwe should phase out all unabated coal power by 2040. As of January 2025, Zimbabwe plans to retire 0% (0 GW) of its 1.7 GW operating coal fleet by 2040. The Zimbabwe has not pledged to phase out coal power."
+    }
+  ]
 }
