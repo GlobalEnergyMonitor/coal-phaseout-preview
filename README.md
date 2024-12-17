@@ -1,4 +1,8 @@
-# Global Coal Plant Tracker dashboard
+# Global Coal Phaseout dashboard
+
+This dashboard is based on the [Global Coal Plant Tracker dashboard](https://globalenergymonitor.org/projects/global-coal-plant-tracker/dashboard/). The architecture is similar. The difference is data_wrangling_1 is used to generate the raw data for the Flourish charts, as well as the text-config.json file, and data_wrangling_2 is used to generate the json files for the public/assets folder. 
+
+Everything below is from the original GCPT repo. This "Read Me" will be udpated after it is finalized. For now it is under peer review.
 
 This repository hosts the code for the [Global Coal Plant Tracker dashboard](https://globalenergymonitor.org/projects/global-coal-plant-tracker/dashboard/), built using the [Flourish API dashboard template setup](https://github.com/GlobalEnergyMonitor/Flourish-API-dashboard-template). For the full instructions on how the Flourish API framework, you can go through the comprehensive README that includes all the different steps on how to set and configure a new dashboard in the template Github repo. This repo will focus on how to update and make changes to the coal plant tracker dashboard, which is updated with new data releases every six months. 
 
