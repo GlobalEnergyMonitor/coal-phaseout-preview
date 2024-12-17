@@ -1,588 +1,588 @@
 [
     {
         "Country": "Global",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "125.0"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "127.0"
     },
     {
         "Country": "G7",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "42.0"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "43.0"
     },
     {
         "Country": "G20",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "116.0"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "117.0"
     },
     {
         "Country": "EU27",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "14.0"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "15.0"
     },
     {
         "Country": "OECD",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "63.0"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "64.0"
     },
     {
         "Country": "BRICS",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "87.0"
     },
     {
         "Country": "Albania",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Argentina",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.03"
     },
     {
         "Country": "Australia",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "3.2"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "3.3"
     },
     {
         "Country": "Austria",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Bangladesh",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.32"
     },
     {
         "Country": "Belarus",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Belgium",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Bosnia and Herzegovina",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.12"
     },
     {
         "Country": "Botswana",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.04"
     },
     {
         "Country": "Brazil",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.19"
     },
     {
         "Country": "Brunei",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Bulgaria",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.27"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.3"
     },
     {
         "Country": "Cambodia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.09"
     },
     {
         "Country": "Canada",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "0.46"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "0.48"
     },
     {
         "Country": "Chile",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.23"
     },
     {
         "Country": "China",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "67.0"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "68.0"
     },
     {
         "Country": "Colombia",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.24"
     },
     {
         "Country": "C\u00f4te d'Ivoire",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Croatia",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.01"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.02"
     },
     {
         "Country": "Czech Republic",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "1.1"
     },
     {
         "Country": "Denmark",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.17"
     },
     {
         "Country": "Djibouti",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Dominican Republic",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.06"
     },
     {
         "Country": "DR Congo",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Egypt",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "El Salvador",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Eswatini",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Ethiopia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Finland",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.18"
     },
     {
         "Country": "France",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.29"
     },
     {
         "Country": "Georgia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Germany",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "4.6"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "4.9"
     },
     {
         "Country": "Ghana",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Greece",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.41"
     },
     {
         "Country": "Guadeloupe",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Guatemala",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.03"
     },
     {
         "Country": "Guinea",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Honduras",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Hong Kong",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.34"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.36"
     },
     {
         "Country": "Hungary",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "0.13"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "0.16"
     },
     {
         "Country": "India",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "14.0"
     },
     {
         "Country": "Indonesia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "3.1"
     },
     {
         "Country": "Iran",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Ireland",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.13"
     },
     {
         "Country": "Israel",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.62"
     },
     {
         "Country": "Italy",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "0.74"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "0.88"
     },
     {
         "Country": "Jamaica",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Japan",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "7.8"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "7.9"
     },
     {
         "Country": "Kazakhstan",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.76"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.8"
     },
     {
         "Country": "Kenya",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Kosovo",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.08"
     },
     {
         "Country": "Kyrgyzstan",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.05"
     },
     {
         "Country": "Laos",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.11"
     },
     {
         "Country": "Latvia",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Madagascar",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Malawi",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Malaysia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.78"
     },
     {
         "Country": "Mauritius",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Mexico",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.77"
     },
     {
         "Country": "Moldova",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.0"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.09"
     },
     {
         "Country": "Mongolia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.06"
     },
     {
         "Country": "Montenegro",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Morocco",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.24"
     },
     {
         "Country": "Mozambique",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Myanmar",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Namibia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Netherlands",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.5"
     },
     {
         "Country": "New Caledonia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.02"
     },
     {
         "Country": "New Zealand",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.11"
     },
     {
         "Country": "Niger",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Nigeria",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.02"
     },
     {
         "Country": "North Korea",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.19"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.22"
     },
     {
         "Country": "North Macedonia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.05"
     },
     {
         "Country": "Oman",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Pakistan",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.45"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.46"
     },
     {
         "Country": "Panama",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.02"
     },
     {
         "Country": "Papua New Guinea",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Peru",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Philippines",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.72"
     },
     {
         "Country": "Poland",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "4.1"
     },
     {
         "Country": "Portugal",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Romania",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.14"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "0.17"
     },
     {
         "Country": "Russia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "2.2"
     },
     {
         "Country": "Saudi Arabia",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "2.2"
     },
     {
         "Country": "Senegal",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.01"
     },
     {
         "Country": "Serbia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.26"
     },
     {
         "Country": "Slovakia",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.04"
     },
     {
         "Country": "Slovenia",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.15"
     },
     {
         "Country": "South Africa",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "2.6"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "2.7"
     },
     {
         "Country": "South Korea",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "5.9"
     },
     {
         "Country": "Spain",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.41"
     },
     {
         "Country": "Sri Lanka",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.05"
     },
     {
         "Country": "Sudan",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Sweden",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Syria",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Taiwan",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "1.1"
     },
     {
         "Country": "Tajikistan",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.02"
     },
     {
         "Country": "Tanzania",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Thailand",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.36"
     },
     {
         "Country": "T\u00fcrkiye",
-        "Retirements": "1.5C annual retirements needed to 2030",
-        "Capacity": "2.9"
+        "Retirements": "Annual retirements needed (2030 phaseout)",
+        "Capacity": "3.0"
     },
     {
         "Country": "Ukraine",
-        "Retirements": "1.5C annual retirements needed to 2040",
-        "Capacity": "0.32"
+        "Retirements": "Annual retirements needed (2040 phaseout)",
+        "Capacity": "1.3"
     },
     {
         "Country": "United Arab Emirates",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "United Kingdom",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "0.31"
     },
     {
         "Country": "United States",
-        "Retirements": "1.5C annual retirements needed to 2030",
+        "Retirements": "Annual retirements needed (2030 phaseout)",
         "Capacity": "28.0"
     },
     {
         "Country": "Uzbekistan",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.15"
     },
     {
         "Country": "Venezuela",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.0"
     },
     {
         "Country": "Vietnam",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "1.6"
     },
     {
         "Country": "Zambia",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.02"
     },
     {
         "Country": "Zimbabwe",
-        "Retirements": "1.5C annual retirements needed to 2040",
+        "Retirements": "Annual retirements needed (2040 phaseout)",
         "Capacity": "0.1"
     },
     {
         "Country": "Global",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "18.0"
+        "Capacity": "19.0"
     },
     {
         "Country": "G7",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "15.0"
+        "Capacity": "23.0"
     },
     {
         "Country": "G20",
@@ -592,12 +592,12 @@
     {
         "Country": "EU27",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "6.6"
+        "Capacity": "9.7"
     },
     {
         "Country": "OECD",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "21.0"
+        "Capacity": "34.0"
     },
     {
         "Country": "BRICS",
@@ -617,7 +617,7 @@
     {
         "Country": "Australia",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.87"
+        "Capacity": "2.6"
     },
     {
         "Country": "Austria",
@@ -652,7 +652,7 @@
     {
         "Country": "Brazil",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.14"
+        "Capacity": "0.15"
     },
     {
         "Country": "Brunei",
@@ -672,22 +672,22 @@
     {
         "Country": "Canada",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.42"
+        "Capacity": "0.47"
     },
     {
         "Country": "Chile",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.21"
+        "Capacity": "0.23"
     },
     {
         "Country": "China",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.27"
+        "Capacity": "0.31"
     },
     {
         "Country": "Colombia",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.03"
+        "Capacity": "0.08"
     },
     {
         "Country": "C\u00f4te d'Ivoire",
@@ -707,7 +707,7 @@
     {
         "Country": "Denmark",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.06"
+        "Capacity": "0.17"
     },
     {
         "Country": "Djibouti",
@@ -752,7 +752,7 @@
     {
         "Country": "France",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.27"
+        "Capacity": "0.29"
     },
     {
         "Country": "Georgia",
@@ -762,7 +762,7 @@
     {
         "Country": "Germany",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "2.3"
+        "Capacity": "3.8"
     },
     {
         "Country": "Ghana",
@@ -802,7 +802,7 @@
     {
         "Country": "Hungary",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.13"
+        "Capacity": "0.14"
     },
     {
         "Country": "India",
@@ -812,7 +812,7 @@
     {
         "Country": "Indonesia",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.11"
+        "Capacity": "0.12"
     },
     {
         "Country": "Iran",
@@ -832,7 +832,7 @@
     {
         "Country": "Italy",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.83"
+        "Capacity": "0.88"
     },
     {
         "Country": "Jamaica",
@@ -842,7 +842,7 @@
     {
         "Country": "Japan",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.2"
+        "Capacity": "0.68"
     },
     {
         "Country": "Kazakhstan",
@@ -947,7 +947,7 @@
     {
         "Country": "New Zealand",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.01"
+        "Capacity": "0.11"
     },
     {
         "Country": "Niger",
@@ -1002,7 +1002,7 @@
     {
         "Country": "Poland",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "1.1"
+        "Capacity": "2.1"
     },
     {
         "Country": "Portugal",
@@ -1017,12 +1017,12 @@
     {
         "Country": "Russia",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.26"
+        "Capacity": "0.25"
     },
     {
         "Country": "Saudi Arabia",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.26"
+        "Capacity": "0.25"
     },
     {
         "Country": "Senegal",
@@ -1032,7 +1032,7 @@
     {
         "Country": "Serbia",
         "Retirements": "Annual retirements planned to 2040",
-        "Capacity": "0.04"
+        "Capacity": "0.07"
     },
     {
         "Country": "Slovakia",
@@ -1042,7 +1042,7 @@
     {
         "Country": "Slovenia",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.01"
+        "Capacity": "0.15"
     },
     {
         "Country": "South Africa",
@@ -1052,12 +1052,12 @@
     {
         "Country": "South Korea",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "1.2"
+        "Capacity": "2.8"
     },
     {
         "Country": "Spain",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.12"
+        "Capacity": "0.23"
     },
     {
         "Country": "Sri Lanka",
@@ -1102,7 +1102,7 @@
     {
         "Country": "T\u00fcrkiye",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.21"
+        "Capacity": "0.06"
     },
     {
         "Country": "Ukraine",
@@ -1117,12 +1117,12 @@
     {
         "Country": "United Kingdom",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "0.0"
+        "Capacity": "0.31"
     },
     {
         "Country": "United States",
         "Retirements": "Annual retirements planned to 2030",
-        "Capacity": "11.0"
+        "Capacity": "16.0"
     },
     {
         "Country": "Uzbekistan",
