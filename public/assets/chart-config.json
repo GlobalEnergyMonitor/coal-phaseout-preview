@@ -37,7 +37,7 @@
     },
     "19524995": {
         "title": "How much cumulative coal capacity is planned to retire?",
-        "subtitle": "Coal capacity planned to retire by year and capacity remaining after 2050",
+        "subtitle": "Operating coal capacity planned to retire by year and capacity remaining after 2050",
         "x_axis": "Planned retire ages",
         "values": [
             "Capacity"
