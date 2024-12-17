@@ -1,7 +1,7 @@
 {
     "19523579": {
         "title": "How do coal plans compare to coal phaseout timelines?",
-        "subtitle": "Cumulative capacity through 2040 based on planned retirements (existing) and proposals (existing and proposed)",
+        "subtitle": "Cumulative capacity through 2040 based on planned retirements (existing) and proposals (existing and proposed) compared to a 1.5C coal phaseout timeline (shaded area)",
         "x_axis": "Year",
         "values": [
             "Historic", "Existing", "Existing and proposed"
