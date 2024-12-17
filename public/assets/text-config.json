@@ -1,6 +1,6 @@
 {
-  "title": "Tracking the coal to clean transition:<br> Coal phaseout stats from the Global Coal Plant Tracker",
-  "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in July 2024. Total operating capacity (GW) includes mothballed plants.",
+  "title": "Exploring coal retirement plans<br> with the Global Coal Plant Tracker",
+  "footer": "All data comes from GEM's [Global Coal Plant Tracker](https://globalenergymonitor.org/projects/global-coal-plant-tracker/), last updated in January 2025. Total operating capacity (GW) includes mothballed plants.",
   "dropdown_label": "Select a country or region: ",
   "no_data": "No data available for {{selected}}",
   "dropdown": [
